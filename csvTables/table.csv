@@ -1,0 +1,2289 @@
+Type;Sort;Size;Time(ns)
+basic mass;bubble sort;50;10600
+basic mass;bubble(Ayverson1) sort;50;11810
+basic mass;bubble(Ayverson2) sort;50;8020
+basic mass;selection sort;50;6750
+basic mass;insertion sort;50;6540
+basic mass;binary insertion sort;50;4330
+basic mass;counting sort;50;1310
+basic mass;radix sort;50;2060
+basic mass;quick sort;50;3340
+basic mass;merge sort;50;31020
+basic mass;heap sort;50;3950
+basic mass;shell(Ciur) sort;50;1780
+basic mass;shell sort;50;2250
+basic mass;bubble sort;100;58370
+basic mass;bubble(Ayverson1) sort;100;81210
+basic mass;bubble(Ayverson2) sort;100;30480
+basic mass;selection sort;100;19060
+basic mass;insertion sort;100;10770
+basic mass;binary insertion sort;100;9660
+basic mass;counting sort;100;920
+basic mass;radix sort;100;1950
+basic mass;quick sort;100;4060
+basic mass;merge sort;100;50720
+basic mass;heap sort;100;9830
+basic mass;shell(Ciur) sort;100;4900
+basic mass;shell sort;100;5460
+basic mass;bubble sort;150;118390
+basic mass;bubble(Ayverson1) sort;150;183420
+basic mass;bubble(Ayverson2) sort;150;69120
+basic mass;selection sort;150;45010
+basic mass;insertion sort;150;20290
+basic mass;binary insertion sort;150;21570
+basic mass;counting sort;150;1360
+basic mass;radix sort;150;2570
+basic mass;quick sort;150;9700
+basic mass;merge sort;150;105800
+basic mass;heap sort;150;16270
+basic mass;shell(Ciur) sort;150;7250
+basic mass;shell sort;150;9190
+basic mass;bubble sort;200;113660
+basic mass;bubble(Ayverson1) sort;200;246590
+basic mass;bubble(Ayverson2) sort;200;161210
+basic mass;selection sort;200;67410
+basic mass;insertion sort;200;31500
+basic mass;binary insertion sort;200;29130
+basic mass;counting sort;200;2380
+basic mass;radix sort;200;3370
+basic mass;quick sort;200;12270
+basic mass;merge sort;200;108510
+basic mass;heap sort;200;23270
+basic mass;shell(Ciur) sort;200;7990
+basic mass;shell sort;200;12900
+basic mass;bubble sort;250;357010
+basic mass;bubble(Ayverson1) sort;250;436560
+basic mass;bubble(Ayverson2) sort;250;239650
+basic mass;selection sort;250;169450
+basic mass;insertion sort;250;86850
+basic mass;binary insertion sort;250;73850
+basic mass;counting sort;250;4260
+basic mass;radix sort;250;7070
+basic mass;quick sort;250;16850
+basic mass;merge sort;250;162230
+basic mass;heap sort;250;30040
+basic mass;shell(Ciur) sort;250;42980
+basic mass;shell sort;250;17760
+basic mass;bubble sort;300;395330
+basic mass;bubble(Ayverson1) sort;300;388620
+basic mass;bubble(Ayverson2) sort;300;225380
+basic mass;selection sort;300;149890
+basic mass;insertion sort;300;69280
+basic mass;binary insertion sort;300;64270
+basic mass;counting sort;300;2730
+basic mass;radix sort;300;5500
+basic mass;quick sort;300;19070
+basic mass;merge sort;300;110230
+basic mass;heap sort;300;26430
+basic mass;shell(Ciur) sort;300;11870
+basic mass;shell sort;300;14190
+large mass;bubble sort;50;13710
+large mass;bubble(Ayverson1) sort;50;13350
+large mass;bubble(Ayverson2) sort;50;7430
+large mass;selection sort;50;4780
+large mass;insertion sort;50;3950
+large mass;binary insertion sort;50;2150
+large mass;counting sort;50;20590
+large mass;radix sort;50;3580
+large mass;quick sort;50;2010
+large mass;merge sort;50;33390
+large mass;heap sort;50;6090
+large mass;shell(Ciur) sort;50;2250
+large mass;shell sort;50;2930
+large mass;bubble sort;100;41990
+large mass;bubble(Ayverson1) sort;100;82320
+large mass;bubble(Ayverson2) sort;100;28010
+large mass;selection sort;100;19260
+large mass;insertion sort;100;11270
+large mass;binary insertion sort;100;8890
+large mass;counting sort;100;15980
+large mass;radix sort;100;3540
+large mass;quick sort;100;3630
+large mass;merge sort;100;63730
+large mass;heap sort;100;11690
+large mass;shell(Ciur) sort;100;5040
+large mass;shell sort;100;8370
+large mass;bubble sort;150;119890
+large mass;bubble(Ayverson1) sort;150;109070
+large mass;bubble(Ayverson2) sort;150;117130
+large mass;selection sort;150;43930
+large mass;insertion sort;150;27930
+large mass;binary insertion sort;150;19350
+large mass;counting sort;150;17350
+large mass;radix sort;150;5310
+large mass;quick sort;150;6110
+large mass;merge sort;150;81230
+large mass;heap sort;150;11680
+large mass;shell(Ciur) sort;150;11900
+large mass;shell sort;150;15990
+large mass;bubble sort;200;192230
+large mass;bubble(Ayverson1) sort;200;200260
+large mass;bubble(Ayverson2) sort;200;125470
+large mass;selection sort;200;71450
+large mass;insertion sort;200;39800
+large mass;binary insertion sort;200;37400
+large mass;counting sort;200;16640
+large mass;radix sort;200;5900
+large mass;quick sort;200;11920
+large mass;merge sort;200;137160
+large mass;heap sort;200;33680
+large mass;shell(Ciur) sort;200;14700
+large mass;shell sort;200;19490
+large mass;bubble sort;250;221550
+large mass;bubble(Ayverson1) sort;250;325620
+large mass;bubble(Ayverson2) sort;250;196050
+large mass;selection sort;250;107760
+large mass;insertion sort;250;66790
+large mass;binary insertion sort;250;49310
+large mass;counting sort;250;14830
+large mass;radix sort;250;6940
+large mass;quick sort;250;10440
+large mass;merge sort;250;95140
+large mass;heap sort;250;23830
+large mass;shell(Ciur) sort;250;16980
+large mass;shell sort;250;26340
+large mass;bubble sort;300;307460
+large mass;bubble(Ayverson1) sort;300;448270
+large mass;bubble(Ayverson2) sort;300;269640
+large mass;selection sort;300;154440
+large mass;insertion sort;300;93740
+large mass;binary insertion sort;300;79900
+large mass;counting sort;300;17170
+large mass;radix sort;300;9410
+large mass;quick sort;300;14760
+large mass;merge sort;300;112240
+large mass;heap sort;300;30580
+large mass;shell(Ciur) sort;300;18480
+large mass;shell sort;300;25400
+half sort mass;bubble sort;50;10530
+half sort mass;bubble(Ayverson1) sort;50;10270
+half sort mass;bubble(Ayverson2) sort;50;6430
+half sort mass;selection sort;50;4720
+half sort mass;insertion sort;50;2970
+half sort mass;binary insertion sort;50;2730
+half sort mass;counting sort;50;19560
+half sort mass;radix sort;50;3540
+half sort mass;quick sort;50;2460
+half sort mass;merge sort;50;31720
+half sort mass;heap sort;50;6120
+half sort mass;shell(Ciur) sort;50;2830
+half sort mass;shell sort;50;2880
+half sort mass;bubble sort;100;46000
+half sort mass;bubble(Ayverson1) sort;100;84800
+half sort mass;bubble(Ayverson2) sort;100;44930
+half sort mass;selection sort;100;28170
+half sort mass;insertion sort;100;7070
+half sort mass;binary insertion sort;100;7040
+half sort mass;counting sort;100;13170
+half sort mass;radix sort;100;3430
+half sort mass;quick sort;100;4490
+half sort mass;merge sort;100;72100
+half sort mass;heap sort;100;13470
+half sort mass;shell(Ciur) sort;100;5670
+half sort mass;shell sort;100;9190
+half sort mass;bubble sort;150;110860
+half sort mass;bubble(Ayverson1) sort;150;182260
+half sort mass;bubble(Ayverson2) sort;150;54470
+half sort mass;selection sort;150;38350
+half sort mass;insertion sort;150;15560
+half sort mass;binary insertion sort;150;15550
+half sort mass;counting sort;150;16770
+half sort mass;radix sort;150;6040
+half sort mass;quick sort;150;12510
+half sort mass;merge sort;150;65090
+half sort mass;heap sort;150;20990
+half sort mass;shell(Ciur) sort;150;10670
+half sort mass;shell sort;150;9890
+half sort mass;bubble sort;200;185020
+half sort mass;bubble(Ayverson1) sort;200;315620
+half sort mass;bubble(Ayverson2) sort;200;95930
+half sort mass;selection sort;200;65470
+half sort mass;insertion sort;200;28580
+half sort mass;binary insertion sort;200;21600
+half sort mass;counting sort;200;23510
+half sort mass;radix sort;200;12000
+half sort mass;quick sort;200;14640
+half sort mass;merge sort;200;68470
+half sort mass;heap sort;200;29520
+half sort mass;shell(Ciur) sort;200;16010
+half sort mass;shell sort;200;18160
+half sort mass;bubble sort;250;239700
+half sort mass;bubble(Ayverson1) sort;250;282290
+half sort mass;bubble(Ayverson2) sort;250;160380
+half sort mass;selection sort;250;111190
+half sort mass;insertion sort;250;48330
+half sort mass;binary insertion sort;250;34630
+half sort mass;counting sort;250;18270
+half sort mass;radix sort;250;7960
+half sort mass;quick sort;250;16800
+half sort mass;merge sort;250;170610
+half sort mass;heap sort;250;48560
+half sort mass;shell(Ciur) sort;250;19540
+half sort mass;shell sort;250;18250
+half sort mass;bubble sort;300;258960
+half sort mass;bubble(Ayverson1) sort;300;405500
+half sort mass;bubble(Ayverson2) sort;300;241480
+half sort mass;selection sort;300;154450
+half sort mass;insertion sort;300;70040
+half sort mass;binary insertion sort;300;45940
+half sort mass;counting sort;300;18790
+half sort mass;radix sort;300;8630
+half sort mass;quick sort;300;25050
+half sort mass;merge sort;300;214190
+half sort mass;heap sort;300;54630
+half sort mass;shell(Ciur) sort;300;25720
+half sort mass;shell sort;300;35680
+reverse mass;bubble sort;50;9110
+reverse mass;bubble(Ayverson1) sort;50;16460
+reverse mass;bubble(Ayverson2) sort;50;14050
+reverse mass;selection sort;50;4610
+reverse mass;insertion sort;50;5750
+reverse mass;binary insertion sort;50;3600
+reverse mass;counting sort;50;14080
+reverse mass;radix sort;50;4440
+reverse mass;quick sort;50;4870
+reverse mass;merge sort;50;31690
+reverse mass;heap sort;50;4690
+reverse mass;shell(Ciur) sort;50;1830
+reverse mass;shell sort;50;2390
+reverse mass;bubble sort;100;73980
+reverse mass;bubble(Ayverson1) sort;100;99900
+reverse mass;bubble(Ayverson2) sort;100;51880
+reverse mass;selection sort;100;15970
+reverse mass;insertion sort;100;18490
+reverse mass;binary insertion sort;100;24780
+reverse mass;counting sort;100;13790
+reverse mass;radix sort;100;3500
+reverse mass;quick sort;100;11460
+reverse mass;merge sort;100;33360
+reverse mass;heap sort;100;6480
+reverse mass;shell(Ciur) sort;100;3480
+reverse mass;shell sort;100;5570
+reverse mass;bubble sort;150;156600
+reverse mass;bubble(Ayverson1) sort;150;242960
+reverse mass;bubble(Ayverson2) sort;150;84230
+reverse mass;selection sort;150;37140
+reverse mass;insertion sort;150;42020
+reverse mass;binary insertion sort;150;28010
+reverse mass;counting sort;150;14870
+reverse mass;radix sort;150;4680
+reverse mass;quick sort;150;19950
+reverse mass;merge sort;150;52560
+reverse mass;heap sort;150;10340
+reverse mass;shell(Ciur) sort;150;6950
+reverse mass;shell sort;150;7380
+reverse mass;bubble sort;200;163290
+reverse mass;bubble(Ayverson1) sort;200;234880
+reverse mass;bubble(Ayverson2) sort;200;152320
+reverse mass;selection sort;200;66360
+reverse mass;insertion sort;200;78470
+reverse mass;binary insertion sort;200;63690
+reverse mass;counting sort;200;15810
+reverse mass;radix sort;200;6760
+reverse mass;quick sort;200;32530
+reverse mass;merge sort;200;67020
+reverse mass;heap sort;200;24000
+reverse mass;shell(Ciur) sort;200;10500
+reverse mass;shell sort;200;14370
+reverse mass;bubble sort;250;444370
+reverse mass;bubble(Ayverson1) sort;250;373550
+reverse mass;bubble(Ayverson2) sort;250;249260
+reverse mass;selection sort;250;105720
+reverse mass;insertion sort;250;138260
+reverse mass;binary insertion sort;250;77610
+reverse mass;counting sort;250;16120
+reverse mass;radix sort;250;7340
+reverse mass;quick sort;250;54380
+reverse mass;merge sort;250;89990
+reverse mass;heap sort;250;24650
+reverse mass;shell(Ciur) sort;250;8840
+reverse mass;shell sort;250;10560
+reverse mass;bubble sort;300;382520
+reverse mass;bubble(Ayverson1) sort;300;531720
+reverse mass;bubble(Ayverson2) sort;300;348120
+reverse mass;selection sort;300;153760
+reverse mass;insertion sort;300;183310
+reverse mass;binary insertion sort;300;116680
+reverse mass;counting sort;300;17590
+reverse mass;radix sort;300;7800
+reverse mass;quick sort;300;88610
+reverse mass;merge sort;300;101830
+reverse mass;heap sort;300;27610
+reverse mass;shell(Ciur) sort;300;9440
+reverse mass;shell sort;300;17450
+basic mass;bubble sort;400;545350
+basic mass;bubble(Ayverson1) sort;400;795830
+basic mass;bubble(Ayverson2) sort;400;505040
+basic mass;selection sort;400;261180
+basic mass;insertion sort;400;126710
+basic mass;binary insertion sort;400;148480
+basic mass;counting sort;400;3110
+basic mass;radix sort;400;15240
+basic mass;quick sort;400;30890
+basic mass;merge sort;400;142380
+basic mass;heap sort;400;34620
+basic mass;shell(Ciur) sort;400;15690
+basic mass;shell sort;400;38710
+basic mass;bubble sort;500;718790
+basic mass;bubble(Ayverson1) sort;500;1161530
+basic mass;bubble(Ayverson2) sort;500;748330
+basic mass;selection sort;500;423000
+basic mass;insertion sort;500;240030
+basic mass;binary insertion sort;500;193630
+basic mass;counting sort;500;3790
+basic mass;radix sort;500;8630
+basic mass;quick sort;500;52730
+basic mass;merge sort;500;209820
+basic mass;heap sort;500;51010
+basic mass;shell(Ciur) sort;500;21420
+basic mass;shell sort;500;26330
+basic mass;bubble sort;600;1190140
+basic mass;bubble(Ayverson1) sort;600;1686570
+basic mass;bubble(Ayverson2) sort;600;1039030
+basic mass;selection sort;600;600870
+basic mass;insertion sort;600;361100
+basic mass;binary insertion sort;600;265550
+basic mass;counting sort;600;5950
+basic mass;radix sort;600;8740
+basic mass;quick sort;600;55630
+basic mass;merge sort;600;220610
+basic mass;heap sort;600;61700
+basic mass;shell(Ciur) sort;600;25920
+basic mass;shell sort;600;35080
+basic mass;bubble sort;700;1882170
+basic mass;bubble(Ayverson1) sort;700;2323190
+basic mass;bubble(Ayverson2) sort;700;1475230
+basic mass;selection sort;700;822180
+basic mass;insertion sort;700;497430
+basic mass;binary insertion sort;700;377920
+basic mass;counting sort;700;5510
+basic mass;radix sort;700;9070
+basic mass;quick sort;700;85090
+basic mass;merge sort;700;331050
+basic mass;heap sort;700;71240
+basic mass;shell(Ciur) sort;700;30370
+basic mass;shell sort;700;41440
+basic mass;bubble sort;800;2173610
+basic mass;bubble(Ayverson1) sort;800;2959610
+basic mass;bubble(Ayverson2) sort;800;1858210
+basic mass;selection sort;800;1056380
+basic mass;insertion sort;800;631670
+basic mass;binary insertion sort;800;531510
+basic mass;counting sort;800;6740
+basic mass;radix sort;800;10110
+basic mass;quick sort;800;96870
+basic mass;merge sort;800;337140
+basic mass;heap sort;800;84460
+basic mass;shell(Ciur) sort;800;35200
+basic mass;shell sort;800;52170
+basic mass;bubble sort;900;2602790
+basic mass;bubble(Ayverson1) sort;900;3888570
+basic mass;bubble(Ayverson2) sort;900;2115720
+basic mass;selection sort;900;1313200
+basic mass;insertion sort;900;763520
+basic mass;binary insertion sort;900;586860
+basic mass;counting sort;900;9970
+basic mass;radix sort;900;12310
+basic mass;quick sort;900;128980
+basic mass;merge sort;900;332950
+basic mass;heap sort;900;104910
+basic mass;shell(Ciur) sort;900;40810
+basic mass;shell sort;900;58140
+basic mass;bubble sort;1000;3718780
+basic mass;bubble(Ayverson1) sort;1000;4796810
+basic mass;bubble(Ayverson2) sort;1000;3011050
+basic mass;selection sort;1000;1592100
+basic mass;insertion sort;1000;972510
+basic mass;binary insertion sort;1000;737980
+basic mass;counting sort;1000;8510
+basic mass;radix sort;1000;13030
+basic mass;quick sort;1000;154370
+basic mass;merge sort;1000;364420
+basic mass;heap sort;1000;106400
+basic mass;shell(Ciur) sort;1000;49060
+basic mass;shell sort;1000;92450
+basic mass;bubble sort;1100;3565050
+basic mass;bubble(Ayverson1) sort;1100;5368340
+basic mass;bubble(Ayverson2) sort;1100;3188550
+basic mass;selection sort;1100;1850300
+basic mass;insertion sort;1100;1127720
+basic mass;binary insertion sort;1100;927900
+basic mass;counting sort;1100;8010
+basic mass;radix sort;1100;14680
+basic mass;quick sort;1100;180960
+basic mass;merge sort;1100;654500
+basic mass;heap sort;1100;123760
+basic mass;shell(Ciur) sort;1100;54390
+basic mass;shell sort;1100;73050
+basic mass;bubble sort;1200;4392860
+basic mass;bubble(Ayverson1) sort;1200;6763650
+basic mass;bubble(Ayverson2) sort;1200;3818960
+basic mass;selection sort;1200;2499260
+basic mass;insertion sort;1200;1770790
+basic mass;binary insertion sort;1200;1249080
+basic mass;counting sort;1200;9620
+basic mass;radix sort;1200;16560
+basic mass;quick sort;1200;178870
+basic mass;merge sort;1200;434780
+basic mass;heap sort;1200;138550
+basic mass;shell(Ciur) sort;1200;60460
+basic mass;shell sort;1200;91190
+basic mass;bubble sort;1300;5415330
+basic mass;bubble(Ayverson1) sort;1300;7991480
+basic mass;bubble(Ayverson2) sort;1300;4645250
+basic mass;selection sort;1300;2766280
+basic mass;insertion sort;1300;1640330
+basic mass;binary insertion sort;1300;1285300
+basic mass;counting sort;1300;11280
+basic mass;radix sort;1300;18290
+basic mass;quick sort;1300;252540
+basic mass;merge sort;1300;487340
+basic mass;heap sort;1300;170960
+basic mass;shell(Ciur) sort;1300;76500
+basic mass;shell sort;1300;94830
+basic mass;bubble sort;1400;6438860
+basic mass;bubble(Ayverson1) sort;1400;9318130
+basic mass;bubble(Ayverson2) sort;1400;5330920
+basic mass;selection sort;1400;3213490
+basic mass;insertion sort;1400;1911280
+basic mass;binary insertion sort;1400;1430180
+basic mass;counting sort;1400;9900
+basic mass;radix sort;1400;17790
+basic mass;quick sort;1400;278330
+basic mass;merge sort;1400;533840
+basic mass;heap sort;1400;162650
+basic mass;shell(Ciur) sort;1400;73120
+basic mass;shell sort;1400;103600
+basic mass;bubble sort;1500;7338790
+basic mass;bubble(Ayverson1) sort;1500;10868330
+basic mass;bubble(Ayverson2) sort;1500;6742090
+basic mass;selection sort;1500;4526270
+basic mass;insertion sort;1500;2237830
+basic mass;binary insertion sort;1500;1676590
+basic mass;counting sort;1500;11040
+basic mass;radix sort;1500;19890
+basic mass;quick sort;1500;342740
+basic mass;merge sort;1500;567330
+basic mass;heap sort;1500;182800
+basic mass;shell(Ciur) sort;1500;83670
+basic mass;shell sort;1500;102440
+basic mass;bubble sort;1600;8169030
+basic mass;bubble(Ayverson1) sort;1600;12478190
+basic mass;bubble(Ayverson2) sort;1600;7057090
+basic mass;selection sort;1600;4465670
+basic mass;insertion sort;1600;2540200
+basic mass;binary insertion sort;1600;1989000
+basic mass;counting sort;1600;12240
+basic mass;radix sort;1600;20270
+basic mass;quick sort;1600;383240
+basic mass;merge sort;1600;590410
+basic mass;heap sort;1600;210650
+basic mass;shell(Ciur) sort;1600;86860
+basic mass;shell sort;1600;128550
+basic mass;bubble sort;1700;9732050
+basic mass;bubble(Ayverson1) sort;1700;14869450
+basic mass;bubble(Ayverson2) sort;1700;9228150
+basic mass;selection sort;1700;7814800
+basic mass;insertion sort;1700;3054030
+basic mass;binary insertion sort;1700;2167830
+basic mass;counting sort;1700;12890
+basic mass;radix sort;1700;41760
+basic mass;quick sort;1700;629720
+basic mass;merge sort;1700;947100
+basic mass;heap sort;1700;230780
+basic mass;shell(Ciur) sort;1700;115360
+basic mass;shell sort;1700;127490
+basic mass;bubble sort;1800;12092280
+basic mass;bubble(Ayverson1) sort;1800;22960450
+basic mass;bubble(Ayverson2) sort;1800;10986160
+basic mass;selection sort;1800;5392470
+basic mass;insertion sort;1800;3241190
+basic mass;binary insertion sort;1800;2502770
+basic mass;counting sort;1800;13400
+basic mass;radix sort;1800;21970
+basic mass;quick sort;1800;465640
+basic mass;merge sort;1800;678650
+basic mass;heap sort;1800;299640
+basic mass;shell(Ciur) sort;1800;123570
+basic mass;shell sort;1800;144000
+basic mass;bubble sort;1900;14038720
+basic mass;bubble(Ayverson1) sort;1900;20814400
+basic mass;bubble(Ayverson2) sort;1900;9908970
+basic mass;selection sort;1900;6035080
+basic mass;insertion sort;1900;3316070
+basic mass;binary insertion sort;1900;3238710
+basic mass;counting sort;1900;14150
+basic mass;radix sort;1900;23250
+basic mass;quick sort;1900;468050
+basic mass;merge sort;1900;734420
+basic mass;heap sort;1900;257780
+basic mass;shell(Ciur) sort;1900;107740
+basic mass;shell sort;1900;135130
+basic mass;bubble sort;2000;12589940
+basic mass;bubble(Ayverson1) sort;2000;18172910
+basic mass;bubble(Ayverson2) sort;2000;11371370
+basic mass;selection sort;2000;6306390
+basic mass;insertion sort;2000;4094010
+basic mass;binary insertion sort;2000;2913800
+basic mass;counting sort;2000;14380
+basic mass;radix sort;2000;26960
+basic mass;quick sort;2000;480040
+basic mass;merge sort;2000;740360
+basic mass;heap sort;2000;252090
+basic mass;shell(Ciur) sort;2000;111600
+basic mass;shell sort;2000;143040
+basic mass;bubble sort;2100;15219770
+basic mass;bubble(Ayverson1) sort;2100;23536410
+basic mass;bubble(Ayverson2) sort;2100;12970410
+basic mass;selection sort;2100;7344170
+basic mass;insertion sort;2100;4039640
+basic mass;binary insertion sort;2100;3254400
+basic mass;counting sort;2100;16310
+basic mass;radix sort;2100;26930
+basic mass;quick sort;2100;754900
+basic mass;merge sort;2100;962910
+basic mass;heap sort;2100;268300
+basic mass;shell(Ciur) sort;2100;117150
+basic mass;shell sort;2100;163510
+basic mass;bubble sort;2200;16214400
+basic mass;bubble(Ayverson1) sort;2200;23398180
+basic mass;bubble(Ayverson2) sort;2200;13707460
+basic mass;selection sort;2200;7686930
+basic mass;insertion sort;2200;4574020
+basic mass;binary insertion sort;2200;3796500
+basic mass;counting sort;2200;15310
+basic mass;radix sort;2200;28860
+basic mass;quick sort;2200;692950
+basic mass;merge sort;2200;794930
+basic mass;heap sort;2200;272850
+basic mass;shell(Ciur) sort;2200;124630
+basic mass;shell sort;2200;185710
+basic mass;bubble sort;2300;17792770
+basic mass;bubble(Ayverson1) sort;2300;25456140
+basic mass;bubble(Ayverson2) sort;2300;16947250
+basic mass;selection sort;2300;9012320
+basic mass;insertion sort;2300;5330530
+basic mass;binary insertion sort;2300;3901400
+basic mass;counting sort;2300;21030
+basic mass;radix sort;2300;28660
+basic mass;quick sort;2300;721730
+basic mass;merge sort;2300;902730
+basic mass;heap sort;2300;317350
+basic mass;shell(Ciur) sort;2300;129120
+basic mass;shell sort;2300;173750
+basic mass;bubble sort;2400;19037390
+basic mass;bubble(Ayverson1) sort;2400;33698330
+basic mass;bubble(Ayverson2) sort;2400;18746930
+basic mass;selection sort;2400;10905720
+basic mass;insertion sort;2400;5719010
+basic mass;binary insertion sort;2400;4023640
+basic mass;counting sort;2400;18260
+basic mass;radix sort;2400;31240
+basic mass;quick sort;2400;1470640
+basic mass;merge sort;2400;921340
+basic mass;heap sort;2400;310690
+basic mass;shell(Ciur) sort;2400;146450
+basic mass;shell sort;2400;194830
+basic mass;bubble sort;2500;21619730
+basic mass;bubble(Ayverson1) sort;2500;32643660
+basic mass;bubble(Ayverson2) sort;2500;18794130
+basic mass;selection sort;2500;10957240
+basic mass;insertion sort;2500;6351530
+basic mass;binary insertion sort;2500;4736530
+basic mass;counting sort;2500;18340
+basic mass;radix sort;2500;32720
+basic mass;quick sort;2500;903190
+basic mass;merge sort;2500;975220
+basic mass;heap sort;2500;325920
+basic mass;shell(Ciur) sort;2500;144690
+basic mass;shell sort;2500;200480
+basic mass;bubble sort;2600;22991670
+basic mass;bubble(Ayverson1) sort;2600;34894530
+basic mass;bubble(Ayverson2) sort;2600;19435140
+basic mass;selection sort;2600;10650460
+basic mass;insertion sort;2600;6829440
+basic mass;binary insertion sort;2600;5161100
+basic mass;counting sort;2600;21370
+basic mass;radix sort;2600;31850
+basic mass;quick sort;2600;835020
+basic mass;merge sort;2600;1138900
+basic mass;heap sort;2600;335660
+basic mass;shell(Ciur) sort;2600;145170
+basic mass;shell sort;2600;202030
+basic mass;bubble sort;2700;25442810
+basic mass;bubble(Ayverson1) sort;2700;35586280
+basic mass;bubble(Ayverson2) sort;2700;21557470
+basic mass;selection sort;2700;11712710
+basic mass;insertion sort;2700;7696290
+basic mass;binary insertion sort;2700;5739750
+basic mass;counting sort;2700;21180
+basic mass;radix sort;2700;35440
+basic mass;quick sort;2700;988110
+basic mass;merge sort;2700;1046900
+basic mass;heap sort;2700;383120
+basic mass;shell(Ciur) sort;2700;158130
+basic mass;shell sort;2700;223250
+basic mass;bubble sort;2800;25404690
+basic mass;bubble(Ayverson1) sort;2800;41627860
+basic mass;bubble(Ayverson2) sort;2800;25137780
+basic mass;selection sort;2800;12606820
+basic mass;insertion sort;2800;7370680
+basic mass;binary insertion sort;2800;5617020
+basic mass;counting sort;2800;19740
+basic mass;radix sort;2800;35820
+basic mass;quick sort;2800;959320
+basic mass;merge sort;2800;1082470
+basic mass;heap sort;2800;361130
+basic mass;shell(Ciur) sort;2800;167470
+basic mass;shell sort;2800;219640
+basic mass;bubble sort;2900;27444610
+basic mass;bubble(Ayverson1) sort;2900;41026820
+basic mass;bubble(Ayverson2) sort;2900;23790110
+basic mass;selection sort;2900;15426780
+basic mass;insertion sort;2900;8218220
+basic mass;binary insertion sort;2900;5914850
+basic mass;counting sort;2900;22680
+basic mass;radix sort;2900;44890
+basic mass;quick sort;2900;1753100
+basic mass;merge sort;2900;1421160
+basic mass;heap sort;2900;371680
+basic mass;shell(Ciur) sort;2900;169530
+basic mass;shell sort;2900;230640
+basic mass;bubble sort;3000;28261660
+basic mass;bubble(Ayverson1) sort;3000;43765730
+basic mass;bubble(Ayverson2) sort;3000;27271970
+basic mass;selection sort;3000;14577670
+basic mass;insertion sort;3000;8530470
+basic mass;binary insertion sort;3000;6521830
+basic mass;counting sort;3000;21240
+basic mass;radix sort;3000;38960
+basic mass;quick sort;3000;1028100
+basic mass;merge sort;3000;1168210
+basic mass;heap sort;3000;387250
+basic mass;shell(Ciur) sort;3000;191350
+basic mass;shell sort;3000;280710
+basic mass;bubble sort;3100;31943790
+basic mass;bubble(Ayverson1) sort;3100;48354410
+basic mass;bubble(Ayverson2) sort;3100;27768810
+basic mass;selection sort;3100;16783830
+basic mass;insertion sort;3100;9950460
+basic mass;binary insertion sort;3100;7522660
+basic mass;counting sort;3100;23420
+basic mass;radix sort;3100;56100
+basic mass;quick sort;3100;1499760
+basic mass;merge sort;3100;1179830
+basic mass;heap sort;3100;408720
+basic mass;shell(Ciur) sort;3100;185740
+basic mass;shell sort;3100;262820
+basic mass;bubble sort;3200;32929940
+basic mass;bubble(Ayverson1) sort;3200;49818010
+basic mass;bubble(Ayverson2) sort;3200;30662050
+basic mass;selection sort;3200;15799700
+basic mass;insertion sort;3200;9647860
+basic mass;binary insertion sort;3200;7025510
+basic mass;counting sort;3200;22310
+basic mass;radix sort;3200;41720
+basic mass;quick sort;3200;1165540
+basic mass;merge sort;3200;1192790
+basic mass;heap sort;3200;444340
+basic mass;shell(Ciur) sort;3200;193090
+basic mass;shell sort;3200;304920
+basic mass;bubble sort;3300;36576230
+basic mass;bubble(Ayverson1) sort;3300;55234070
+basic mass;bubble(Ayverson2) sort;3300;33427070
+basic mass;selection sort;3300;17997180
+basic mass;insertion sort;3300;10830990
+basic mass;binary insertion sort;3300;8157440
+basic mass;counting sort;3300;24230
+basic mass;radix sort;3300;41520
+basic mass;quick sort;3300;1489570
+basic mass;merge sort;3300;1289050
+basic mass;heap sort;3300;448280
+basic mass;shell(Ciur) sort;3300;196920
+basic mass;shell sort;3300;284100
+basic mass;bubble sort;3400;38278260
+basic mass;bubble(Ayverson1) sort;3400;55927750
+basic mass;bubble(Ayverson2) sort;3400;34213100
+basic mass;selection sort;3400;18589170
+basic mass;insertion sort;3400;10902220
+basic mass;binary insertion sort;3400;8499640
+basic mass;counting sort;3400;24820
+basic mass;radix sort;3400;41940
+basic mass;quick sort;3400;1257110
+basic mass;merge sort;3400;1246600
+basic mass;heap sort;3400;620670
+basic mass;shell(Ciur) sort;3400;195660
+basic mass;shell sort;3400;281830
+basic mass;bubble sort;3500;41367530
+basic mass;bubble(Ayverson1) sort;3500;60775560
+basic mass;bubble(Ayverson2) sort;3500;36281900
+basic mass;selection sort;3500;19122240
+basic mass;insertion sort;3500;12537350
+basic mass;binary insertion sort;3500;8624650
+basic mass;counting sort;3500;25480
+basic mass;radix sort;3500;45050
+basic mass;quick sort;3500;1478680
+basic mass;merge sort;3500;1606430
+basic mass;heap sort;3500;508150
+basic mass;shell(Ciur) sort;3500;216470
+basic mass;shell sort;3500;277630
+basic mass;bubble sort;3600;43212240
+basic mass;bubble(Ayverson1) sort;3600;62519210
+basic mass;bubble(Ayverson2) sort;3600;38507100
+basic mass;selection sort;3600;21315950
+basic mass;insertion sort;3600;12994490
+basic mass;binary insertion sort;3600;9269940
+basic mass;counting sort;3600;27920
+basic mass;radix sort;3600;76640
+basic mass;quick sort;3600;1793900
+basic mass;merge sort;3600;1365010
+basic mass;heap sort;3600;497440
+basic mass;shell(Ciur) sort;3600;229530
+basic mass;shell sort;3600;358000
+basic mass;bubble sort;3700;46752540
+basic mass;bubble(Ayverson1) sort;3700;67440680
+basic mass;bubble(Ayverson2) sort;3700;40859700
+basic mass;selection sort;3700;23127440
+basic mass;insertion sort;3700;15121950
+basic mass;binary insertion sort;3700;10119640
+basic mass;counting sort;3700;30570
+basic mass;radix sort;3700;77040
+basic mass;quick sort;3700;2429350
+basic mass;merge sort;3700;1269600
+basic mass;heap sort;3700;777340
+basic mass;shell(Ciur) sort;3700;238650
+basic mass;shell sort;3700;287910
+basic mass;bubble sort;3800;48548550
+basic mass;bubble(Ayverson1) sort;3800;75832590
+basic mass;bubble(Ayverson2) sort;3800;43188330
+basic mass;selection sort;3800;22813810
+basic mass;insertion sort;3800;14299320
+basic mass;binary insertion sort;3800;10346440
+basic mass;counting sort;3800;27930
+basic mass;radix sort;3800;47600
+basic mass;quick sort;3800;1647170
+basic mass;merge sort;3800;1401510
+basic mass;heap sort;3800;497690
+basic mass;shell(Ciur) sort;3800;209480
+basic mass;shell sort;3800;298370
+basic mass;bubble sort;3900;51022840
+basic mass;bubble(Ayverson1) sort;3900;75018770
+basic mass;bubble(Ayverson2) sort;3900;44667890
+basic mass;selection sort;3900;23630610
+basic mass;insertion sort;3900;14309840
+basic mass;binary insertion sort;3900;10488620
+basic mass;counting sort;3900;49030
+basic mass;radix sort;3900;92480
+basic mass;quick sort;3900;2158530
+basic mass;merge sort;3900;1473240
+basic mass;heap sort;3900;528660
+basic mass;shell(Ciur) sort;3900;233600
+basic mass;shell sort;3900;286030
+basic mass;bubble sort;4000;53674340
+basic mass;bubble(Ayverson1) sort;4000;81103410
+basic mass;bubble(Ayverson2) sort;4000;47493660
+basic mass;selection sort;4000;26022360
+basic mass;insertion sort;4000;14929880
+basic mass;binary insertion sort;4000;11241130
+basic mass;counting sort;4000;29010
+basic mass;radix sort;4000;50950
+basic mass;quick sort;4000;1702200
+basic mass;merge sort;4000;1504230
+basic mass;heap sort;4000;544700
+basic mass;shell(Ciur) sort;4000;231730
+basic mass;shell sort;4000;342080
+basic mass;bubble sort;4100;55836220
+basic mass;bubble(Ayverson1) sort;4100;86648750
+basic mass;bubble(Ayverson2) sort;4100;51070230
+basic mass;selection sort;4100;26824410
+basic mass;insertion sort;4100;17740130
+basic mass;binary insertion sort;4100;12284800
+basic mass;counting sort;4100;33540
+basic mass;radix sort;4100;58020
+basic mass;quick sort;4100;2292960
+basic mass;merge sort;4100;1541550
+basic mass;heap sort;4100;561840
+basic mass;shell(Ciur) sort;4100;246120
+basic mass;shell sort;4100;379680
+large mass;bubble sort;400;534330
+large mass;bubble(Ayverson1) sort;400;841810
+large mass;bubble(Ayverson2) sort;400;521530
+large mass;selection sort;400;281200
+large mass;insertion sort;400;153260
+large mass;binary insertion sort;400;116420
+large mass;counting sort;400;18440
+large mass;radix sort;400;11710
+large mass;quick sort;400;20930
+large mass;merge sort;400;149240
+large mass;heap sort;400;41850
+large mass;shell(Ciur) sort;400;29600
+large mass;shell sort;400;45580
+large mass;bubble sort;500;803110
+large mass;bubble(Ayverson1) sort;500;1260580
+large mass;bubble(Ayverson2) sort;500;723130
+large mass;selection sort;500;473580
+large mass;insertion sort;500;291150
+large mass;binary insertion sort;500;207270
+large mass;counting sort;500;17550
+large mass;radix sort;500;12890
+large mass;quick sort;500;33070
+large mass;merge sort;500;189480
+large mass;heap sort;500;72770
+large mass;shell(Ciur) sort;500;44270
+large mass;shell sort;500;51460
+large mass;bubble sort;600;1201630
+large mass;bubble(Ayverson1) sort;600;1791600
+large mass;bubble(Ayverson2) sort;600;1109000
+large mass;selection sort;600;609270
+large mass;insertion sort;600;399320
+large mass;binary insertion sort;600;261690
+large mass;counting sort;600;21620
+large mass;radix sort;600;14340
+large mass;quick sort;600;36900
+large mass;merge sort;600;238820
+large mass;heap sort;600;79990
+large mass;shell(Ciur) sort;600;75810
+large mass;shell sort;600;69160
+large mass;bubble sort;700;1656070
+large mass;bubble(Ayverson1) sort;700;2909100
+large mass;bubble(Ayverson2) sort;700;1453890
+large mass;selection sort;700;853440
+large mass;insertion sort;700;579840
+large mass;binary insertion sort;700;341780
+large mass;counting sort;700;23350
+large mass;radix sort;700;17290
+large mass;quick sort;700;45080
+large mass;merge sort;700;302210
+large mass;heap sort;700;90660
+large mass;shell(Ciur) sort;700;69360
+large mass;shell sort;700;82900
+large mass;bubble sort;800;2043140
+large mass;bubble(Ayverson1) sort;800;3203480
+large mass;bubble(Ayverson2) sort;800;1869930
+large mass;selection sort;800;1086740
+large mass;insertion sort;800;653740
+large mass;binary insertion sort;800;480270
+large mass;counting sort;800;24900
+large mass;radix sort;800;24660
+large mass;quick sort;800;73100
+large mass;merge sort;800;551230
+large mass;heap sort;800;109810
+large mass;shell(Ciur) sort;800;77680
+large mass;shell sort;800;115350
+large mass;bubble sort;900;2793630
+large mass;bubble(Ayverson1) sort;900;4050650
+large mass;bubble(Ayverson2) sort;900;2459990
+large mass;selection sort;900;1651580
+large mass;insertion sort;900;978470
+large mass;binary insertion sort;900;602940
+large mass;counting sort;900;27680
+large mass;radix sort;900;22710
+large mass;quick sort;900;61200
+large mass;merge sort;900;502270
+large mass;heap sort;900;129170
+large mass;shell(Ciur) sort;900;88920
+large mass;shell sort;900;120250
+large mass;bubble sort;1000;3312390
+large mass;bubble(Ayverson1) sort;1000;5119410
+large mass;bubble(Ayverson2) sort;1000;3055620
+large mass;selection sort;1000;1757710
+large mass;insertion sort;1000;1244740
+large mass;binary insertion sort;1000;705770
+large mass;counting sort;1000;24220
+large mass;radix sort;1000;24980
+large mass;quick sort;1000;75170
+large mass;merge sort;1000;500010
+large mass;heap sort;1000;142300
+large mass;shell(Ciur) sort;1000;104180
+large mass;shell sort;1000;118680
+large mass;bubble sort;1100;3848710
+large mass;bubble(Ayverson1) sort;1100;6086970
+large mass;bubble(Ayverson2) sort;1100;3332030
+large mass;selection sort;1100;2284100
+large mass;insertion sort;1100;1464870
+large mass;binary insertion sort;1100;857820
+large mass;counting sort;1100;28680
+large mass;radix sort;1100;26020
+large mass;quick sort;1100;74450
+large mass;merge sort;1100;427650
+large mass;heap sort;1100;158900
+large mass;shell(Ciur) sort;1100;114360
+large mass;shell sort;1100;137140
+large mass;bubble sort;1200;4742190
+large mass;bubble(Ayverson1) sort;1200;7247820
+large mass;bubble(Ayverson2) sort;1200;4280300
+large mass;selection sort;1200;2427690
+large mass;insertion sort;1200;1779610
+large mass;binary insertion sort;1200;1084960
+large mass;counting sort;1200;29520
+large mass;radix sort;1200;42200
+large mass;quick sort;1200;101080
+large mass;merge sort;1200;493440
+large mass;heap sort;1200;175580
+large mass;shell(Ciur) sort;1200;142560
+large mass;shell sort;1200;180980
+large mass;bubble sort;1300;5477710
+large mass;bubble(Ayverson1) sort;1300;8604880
+large mass;bubble(Ayverson2) sort;1300;5380780
+large mass;selection sort;1300;2818360
+large mass;insertion sort;1300;2047230
+large mass;binary insertion sort;1300;1289140
+large mass;counting sort;1300;28170
+large mass;radix sort;1300;55990
+large mass;quick sort;1300;138430
+large mass;merge sort;1300;664130
+large mass;heap sort;1300;195290
+large mass;shell(Ciur) sort;1300;173940
+large mass;shell sort;1300;246150
+large mass;bubble sort;1400;6814430
+large mass;bubble(Ayverson1) sort;1400;10631640
+large mass;bubble(Ayverson2) sort;1400;6224040
+large mass;selection sort;1400;3190220
+large mass;insertion sort;1400;2293810
+large mass;binary insertion sort;1400;1546360
+large mass;counting sort;1400;31360
+large mass;radix sort;1400;34790
+large mass;quick sort;1400;104910
+large mass;merge sort;1400;549590
+large mass;heap sort;1400;207300
+large mass;shell(Ciur) sort;1400;150170
+large mass;shell sort;1400;185370
+large mass;bubble sort;1500;7286790
+large mass;bubble(Ayverson1) sort;1500;11619280
+large mass;bubble(Ayverson2) sort;1500;6962800
+large mass;selection sort;1500;3776070
+large mass;insertion sort;1500;2785580
+large mass;binary insertion sort;1500;1604070
+large mass;counting sort;1500;34280
+large mass;radix sort;1500;36550
+large mass;quick sort;1500;114790
+large mass;merge sort;1500;594910
+large mass;heap sort;1500;225900
+large mass;shell(Ciur) sort;1500;172360
+large mass;shell sort;1500;202190
+large mass;bubble sort;1600;8238570
+large mass;bubble(Ayverson1) sort;1600;14382940
+large mass;bubble(Ayverson2) sort;1600;7786920
+large mass;selection sort;1600;4294180
+large mass;insertion sort;1600;2887880
+large mass;binary insertion sort;1600;1762680
+large mass;counting sort;1600;35110
+large mass;radix sort;1600;37620
+large mass;quick sort;1600;127070
+large mass;merge sort;1600;621400
+large mass;heap sort;1600;238330
+large mass;shell(Ciur) sort;1600;192900
+large mass;shell sort;1600;224130
+large mass;bubble sort;1700;9063830
+large mass;bubble(Ayverson1) sort;1700;14673280
+large mass;bubble(Ayverson2) sort;1700;8833390
+large mass;selection sort;1700;8135260
+large mass;insertion sort;1700;3490720
+large mass;binary insertion sort;1700;1983380
+large mass;counting sort;1700;37280
+large mass;radix sort;1700;38790
+large mass;quick sort;1700;144810
+large mass;merge sort;1700;1277830
+large mass;heap sort;1700;398480
+large mass;shell(Ciur) sort;1700;196960
+large mass;shell sort;1700;233840
+large mass;bubble sort;1800;10453410
+large mass;bubble(Ayverson1) sort;1800;17512790
+large mass;bubble(Ayverson2) sort;1800;9910380
+large mass;selection sort;1800;5384780
+large mass;insertion sort;1800;3581910
+large mass;binary insertion sort;1800;2148160
+large mass;counting sort;1800;36380
+large mass;radix sort;1800;41020
+large mass;quick sort;1800;142360
+large mass;merge sort;1800;712740
+large mass;heap sort;1800;286010
+large mass;shell(Ciur) sort;1800;204940
+large mass;shell sort;1800;275010
+large mass;bubble sort;1900;11827820
+large mass;bubble(Ayverson1) sort;1900;20294360
+large mass;bubble(Ayverson2) sort;1900;12257550
+large mass;selection sort;1900;7577810
+large mass;insertion sort;1900;4698340
+large mass;binary insertion sort;1900;2899670
+large mass;counting sort;1900;41610
+large mass;radix sort;1900;61040
+large mass;quick sort;1900;164110
+large mass;merge sort;1900;832740
+large mass;heap sort;1900;438150
+large mass;shell(Ciur) sort;1900;220120
+large mass;shell sort;1900;284960
+large mass;bubble sort;2000;13356560
+large mass;bubble(Ayverson1) sort;2000;19662820
+large mass;bubble(Ayverson2) sort;2000;12793100
+large mass;selection sort;2000;8144400
+large mass;insertion sort;2000;4696890
+large mass;binary insertion sort;2000;3220020
+large mass;counting sort;2000;39150
+large mass;radix sort;2000;49330
+large mass;quick sort;2000;166790
+large mass;merge sort;2000;772790
+large mass;heap sort;2000;339910
+large mass;shell(Ciur) sort;2000;261050
+large mass;shell sort;2000;275090
+large mass;bubble sort;2100;14414040
+large mass;bubble(Ayverson1) sort;2100;23700140
+large mass;bubble(Ayverson2) sort;2100;13319380
+large mass;selection sort;2100;7371820
+large mass;insertion sort;2100;5135900
+large mass;binary insertion sort;2100;3128770
+large mass;counting sort;2100;54690
+large mass;radix sort;2100;87200
+large mass;quick sort;2100;217780
+large mass;merge sort;2100;930320
+large mass;heap sort;2100;345520
+large mass;shell(Ciur) sort;2100;250750
+large mass;shell sort;2100;307480
+large mass;bubble sort;2200;17967090
+large mass;bubble(Ayverson1) sort;2200;26639640
+large mass;bubble(Ayverson2) sort;2200;15208820
+large mass;selection sort;2200;8028450
+large mass;insertion sort;2200;5776950
+large mass;binary insertion sort;2200;3186590
+large mass;counting sort;2200;43400
+large mass;radix sort;2200;49980
+large mass;quick sort;2200;171060
+large mass;merge sort;2200;870620
+large mass;heap sort;2200;344490
+large mass;shell(Ciur) sort;2200;251910
+large mass;shell sort;2200;306720
+large mass;bubble sort;2300;17355790
+large mass;bubble(Ayverson1) sort;2300;27886850
+large mass;bubble(Ayverson2) sort;2300;16968430
+large mass;selection sort;2300;8926790
+large mass;insertion sort;2300;6838460
+large mass;binary insertion sort;2300;3621910
+large mass;counting sort;2300;48440
+large mass;radix sort;2300;52670
+large mass;quick sort;2300;269500
+large mass;merge sort;2300;948980
+large mass;heap sort;2300;373380
+large mass;shell(Ciur) sort;2300;271280
+large mass;shell sort;2300;344650
+large mass;bubble sort;2400;19295750
+large mass;bubble(Ayverson1) sort;2400;31371820
+large mass;bubble(Ayverson2) sort;2400;19914920
+large mass;selection sort;2400;9642030
+large mass;insertion sort;2400;7191970
+large mass;binary insertion sort;2400;3956950
+large mass;counting sort;2400;44310
+large mass;radix sort;2400;61610
+large mass;quick sort;2400;205190
+large mass;merge sort;2400;977960
+large mass;heap sort;2400;391320
+large mass;shell(Ciur) sort;2400;324900
+large mass;shell sort;2400;351950
+large mass;bubble sort;2500;20255100
+large mass;bubble(Ayverson1) sort;2500;32013490
+large mass;bubble(Ayverson2) sort;2500;19824000
+large mass;selection sort;2500;9849510
+large mass;insertion sort;2500;7020880
+large mass;binary insertion sort;2500;4133390
+large mass;counting sort;2500;44680
+large mass;radix sort;2500;114610
+large mass;quick sort;2500;210880
+large mass;merge sort;2500;998180
+large mass;heap sort;2500;410290
+large mass;shell(Ciur) sort;2500;326180
+large mass;shell sort;2500;392010
+large mass;bubble sort;2600;21779050
+large mass;bubble(Ayverson1) sort;2600;35482420
+large mass;bubble(Ayverson2) sort;2600;20831930
+large mass;selection sort;2600;11310780
+large mass;insertion sort;2600;7677980
+large mass;binary insertion sort;2600;4245960
+large mass;counting sort;2600;42950
+large mass;radix sort;2600;118910
+large mass;quick sort;2600;223600
+large mass;merge sort;2600;1027740
+large mass;heap sort;2600;422910
+large mass;shell(Ciur) sort;2600;343100
+large mass;shell sort;2600;392900
+large mass;bubble sort;2700;22788700
+large mass;bubble(Ayverson1) sort;2700;38394240
+large mass;bubble(Ayverson2) sort;2700;23403220
+large mass;selection sort;2700;11565440
+large mass;insertion sort;2700;8062530
+large mass;binary insertion sort;2700;4713530
+large mass;counting sort;2700;47770
+large mass;radix sort;2700;61460
+large mass;quick sort;2700;229870
+large mass;merge sort;2700;1059240
+large mass;heap sort;2700;441730
+large mass;shell(Ciur) sort;2700;326140
+large mass;shell sort;2700;401650
+large mass;bubble sort;2800;27032110
+large mass;bubble(Ayverson1) sort;2800;42096410
+large mass;bubble(Ayverson2) sort;2800;23512410
+large mass;selection sort;2800;12389650
+large mass;insertion sort;2800;9160310
+large mass;binary insertion sort;2800;5483290
+large mass;counting sort;2800;47950
+large mass;radix sort;2800;77580
+large mass;quick sort;2800;225800
+large mass;merge sort;2800;1097740
+large mass;heap sort;2800;464120
+large mass;shell(Ciur) sort;2800;353650
+large mass;shell sort;2800;417120
+large mass;bubble sort;2900;28299450
+large mass;bubble(Ayverson1) sort;2900;42136580
+large mass;bubble(Ayverson2) sort;2900;25639500
+large mass;selection sort;2900;13456940
+large mass;insertion sort;2900;10193980
+large mass;binary insertion sort;2900;5611110
+large mass;counting sort;2900;53670
+large mass;radix sort;2900;70360
+large mass;quick sort;2900;251010
+large mass;merge sort;2900;1179840
+large mass;heap sort;2900;500980
+large mass;shell(Ciur) sort;2900;356420
+large mass;shell sort;2900;468410
+large mass;bubble sort;3000;29612430
+large mass;bubble(Ayverson1) sort;3000;46656910
+large mass;bubble(Ayverson2) sort;3000;29984840
+large mass;selection sort;3000;14291230
+large mass;insertion sort;3000;10299300
+large mass;binary insertion sort;3000;5785580
+large mass;counting sort;3000;48130
+large mass;radix sort;3000;69320
+large mass;quick sort;3000;245480
+large mass;merge sort;3000;1176130
+large mass;heap sort;3000;517460
+large mass;shell(Ciur) sort;3000;388310
+large mass;shell sort;3000;456230
+large mass;bubble sort;3100;32290900
+large mass;bubble(Ayverson1) sort;3100;49189840
+large mass;bubble(Ayverson2) sort;3100;29541510
+large mass;selection sort;3100;15523710
+large mass;insertion sort;3100;11543310
+large mass;binary insertion sort;3100;6389440
+large mass;counting sort;3100;55580
+large mass;radix sort;3100;70800
+large mass;quick sort;3100;265050
+large mass;merge sort;3100;1248260
+large mass;heap sort;3100;520550
+large mass;shell(Ciur) sort;3100;422170
+large mass;shell sort;3100;521380
+large mass;bubble sort;3200;33026430
+large mass;bubble(Ayverson1) sort;3200;56317050
+large mass;bubble(Ayverson2) sort;3200;31463560
+large mass;selection sort;3200;16524550
+large mass;insertion sort;3200;12433760
+large mass;binary insertion sort;3200;6840920
+large mass;counting sort;3200;55110
+large mass;radix sort;3200;74900
+large mass;quick sort;3200;273730
+large mass;merge sort;3200;1260930
+large mass;heap sort;3200;528270
+large mass;shell(Ciur) sort;3200;455420
+large mass;shell sort;3200;559940
+large mass;bubble sort;3300;36965040
+large mass;bubble(Ayverson1) sort;3300;56657470
+large mass;bubble(Ayverson2) sort;3300;35151930
+large mass;selection sort;3300;17916940
+large mass;insertion sort;3300;11725440
+large mass;binary insertion sort;3300;6820020
+large mass;counting sort;3300;51740
+large mass;radix sort;3300;74300
+large mass;quick sort;3300;275390
+large mass;merge sort;3300;1297340
+large mass;heap sort;3300;537030
+large mass;shell(Ciur) sort;3300;403730
+large mass;shell sort;3300;521940
+large mass;bubble sort;3400;38244200
+large mass;bubble(Ayverson1) sort;3400;59835110
+large mass;bubble(Ayverson2) sort;3400;35289430
+large mass;selection sort;3400;18862160
+large mass;insertion sort;3400;13551830
+large mass;binary insertion sort;3400;7831670
+large mass;counting sort;3400;53310
+large mass;radix sort;3400;79850
+large mass;quick sort;3400;290420
+large mass;merge sort;3400;1333450
+large mass;heap sort;3400;574390
+large mass;shell(Ciur) sort;3400;443430
+large mass;shell sort;3400;511590
+large mass;bubble sort;3500;40415450
+large mass;bubble(Ayverson1) sort;3500;64854420
+large mass;bubble(Ayverson2) sort;3500;37476040
+large mass;selection sort;3500;19327040
+large mass;insertion sort;3500;14217970
+large mass;binary insertion sort;3500;8293060
+large mass;counting sort;3500;56130
+large mass;radix sort;3500;79870
+large mass;quick sort;3500;306560
+large mass;merge sort;3500;1379630
+large mass;heap sort;3500;578070
+large mass;shell(Ciur) sort;3500;455960
+large mass;shell sort;3500;532160
+large mass;bubble sort;3600;44062060
+large mass;bubble(Ayverson1) sort;3600;67099860
+large mass;bubble(Ayverson2) sort;3600;41276160
+large mass;selection sort;3600;20336980
+large mass;insertion sort;3600;14969680
+large mass;binary insertion sort;3600;8920610
+large mass;counting sort;3600;59590
+large mass;radix sort;3600;83630
+large mass;quick sort;3600;317990
+large mass;merge sort;3600;1472160
+large mass;heap sort;3600;621620
+large mass;shell(Ciur) sort;3600;504210
+large mass;shell sort;3600;636570
+large mass;bubble sort;3700;45870630
+large mass;bubble(Ayverson1) sort;3700;71060750
+large mass;bubble(Ayverson2) sort;3700;43155960
+large mass;selection sort;3700;21041120
+large mass;insertion sort;3700;15731380
+large mass;binary insertion sort;3700;9143790
+large mass;counting sort;3700;60520
+large mass;radix sort;3700;89750
+large mass;quick sort;3700;324890
+large mass;merge sort;3700;1518620
+large mass;heap sort;3700;614840
+large mass;shell(Ciur) sort;3700;484970
+large mass;shell sort;3700;579300
+large mass;bubble sort;3800;48860030
+large mass;bubble(Ayverson1) sort;3800;73989430
+large mass;bubble(Ayverson2) sort;3800;46735980
+large mass;selection sort;3800;25317100
+large mass;insertion sort;3800;16289050
+large mass;binary insertion sort;3800;9036060
+large mass;counting sort;3800;69570
+large mass;radix sort;3800;114770
+large mass;quick sort;3800;314360
+large mass;merge sort;3800;1441400
+large mass;heap sort;3800;615670
+large mass;shell(Ciur) sort;3800;507430
+large mass;shell sort;3800;568090
+large mass;bubble sort;3900;52984440
+large mass;bubble(Ayverson1) sort;3900;83468510
+large mass;bubble(Ayverson2) sort;3900;48478860
+large mass;selection sort;3900;25973950
+large mass;insertion sort;3900;17255420
+large mass;binary insertion sort;3900;10429980
+large mass;counting sort;3900;64850
+large mass;radix sort;3900;91230
+large mass;quick sort;3900;340300
+large mass;merge sort;3900;2557020
+large mass;heap sort;3900;669830
+large mass;shell(Ciur) sort;3900;657450
+large mass;shell sort;3900;692540
+large mass;bubble sort;4000;52971410
+large mass;bubble(Ayverson1) sort;4000;84882690
+large mass;bubble(Ayverson2) sort;4000;51170010
+large mass;selection sort;4000;26604650
+large mass;insertion sort;4000;17965830
+large mass;binary insertion sort;4000;11280430
+large mass;counting sort;4000;66790
+large mass;radix sort;4000;91440
+large mass;quick sort;4000;365350
+large mass;merge sort;4000;1646780
+large mass;heap sort;4000;695080
+large mass;shell(Ciur) sort;4000;524710
+large mass;shell sort;4000;647170
+large mass;bubble sort;4100;57284670
+large mass;bubble(Ayverson1) sort;4100;89895110
+large mass;bubble(Ayverson2) sort;4100;52462120
+large mass;selection sort;4100;27384280
+large mass;insertion sort;4100;19919960
+large mass;binary insertion sort;4100;11614960
+large mass;counting sort;4100;61940
+large mass;radix sort;4100;95190
+large mass;quick sort;4100;362460
+large mass;merge sort;4100;1634780
+large mass;heap sort;4100;738730
+large mass;shell(Ciur) sort;4100;559170
+large mass;shell sort;4100;857150
+half sort mass;bubble sort;400;442160
+half sort mass;bubble(Ayverson1) sort;400;705470
+half sort mass;bubble(Ayverson2) sort;400;407400
+half sort mass;selection sort;400;269450
+half sort mass;insertion sort;400;133960
+half sort mass;binary insertion sort;400;82890
+half sort mass;counting sort;400;19650
+half sort mass;radix sort;400;10420
+half sort mass;quick sort;400;41400
+half sort mass;merge sort;400;216380
+half sort mass;heap sort;400;43990
+half sort mass;shell(Ciur) sort;400;26890
+half sort mass;shell sort;400;39570
+half sort mass;bubble sort;500;893910
+half sort mass;bubble(Ayverson1) sort;500;1165680
+half sort mass;bubble(Ayverson2) sort;500;659360
+half sort mass;selection sort;500;440840
+half sort mass;insertion sort;500;242110
+half sort mass;binary insertion sort;500;159790
+half sort mass;counting sort;500;21500
+half sort mass;radix sort;500;12680
+half sort mass;quick sort;500;28830
+half sort mass;merge sort;500;179680
+half sort mass;heap sort;500;59010
+half sort mass;shell(Ciur) sort;500;39010
+half sort mass;shell sort;500;46900
+half sort mass;bubble sort;600;1167360
+half sort mass;bubble(Ayverson1) sort;600;1748060
+half sort mass;bubble(Ayverson2) sort;600;897360
+half sort mass;selection sort;600;672080
+half sort mass;insertion sort;600;335590
+half sort mass;binary insertion sort;600;184550
+half sort mass;counting sort;600;22030
+half sort mass;radix sort;600;15470
+half sort mass;quick sort;600;41410
+half sort mass;merge sort;600;405430
+half sort mass;heap sort;600;78000
+half sort mass;shell(Ciur) sort;600;47330
+half sort mass;shell sort;600;59920
+half sort mass;bubble sort;700;1320990
+half sort mass;bubble(Ayverson1) sort;700;2143950
+half sort mass;bubble(Ayverson2) sort;700;1217500
+half sort mass;selection sort;700;916140
+half sort mass;insertion sort;700;341830
+half sort mass;binary insertion sort;700;251280
+half sort mass;counting sort;700;22750
+half sort mass;radix sort;700;18190
+half sort mass;quick sort;700;49220
+half sort mass;merge sort;700;256540
+half sort mass;heap sort;700;86880
+half sort mass;shell(Ciur) sort;700;59910
+half sort mass;shell sort;700;75800
+half sort mass;bubble sort;800;1743490
+half sort mass;bubble(Ayverson1) sort;800;2728340
+half sort mass;bubble(Ayverson2) sort;800;1450170
+half sort mass;selection sort;800;1046270
+half sort mass;insertion sort;800;525280
+half sort mass;binary insertion sort;800;290050
+half sort mass;counting sort;800;24230
+half sort mass;radix sort;800;19700
+half sort mass;quick sort;800;57160
+half sort mass;merge sort;800;287480
+half sort mass;heap sort;800;106170
+half sort mass;shell(Ciur) sort;800;72780
+half sort mass;shell sort;800;96510
+half sort mass;bubble sort;900;2238880
+half sort mass;bubble(Ayverson1) sort;900;3504860
+half sort mass;bubble(Ayverson2) sort;900;2009430
+half sort mass;selection sort;900;1333790
+half sort mass;insertion sort;900;708440
+half sort mass;binary insertion sort;900;414620
+half sort mass;counting sort;900;25620
+half sort mass;radix sort;900;25730
+half sort mass;quick sort;900;59460
+half sort mass;merge sort;900;332500
+half sort mass;heap sort;900;117220
+half sort mass;shell(Ciur) sort;900;87800
+half sort mass;shell sort;900;100460
+half sort mass;bubble sort;1000;2785800
+half sort mass;bubble(Ayverson1) sort;1000;4544840
+half sort mass;bubble(Ayverson2) sort;1000;2749090
+half sort mass;selection sort;1000;1703030
+half sort mass;insertion sort;1000;906730
+half sort mass;binary insertion sort;1000;690310
+half sort mass;counting sort;1000;25700
+half sort mass;radix sort;1000;25010
+half sort mass;quick sort;1000;75110
+half sort mass;merge sort;1000;361840
+half sort mass;heap sort;1000;135520
+half sort mass;shell(Ciur) sort;1000;126350
+half sort mass;shell sort;1000;158850
+half sort mass;bubble sort;1100;3367820
+half sort mass;bubble(Ayverson1) sort;1100;5678140
+half sort mass;bubble(Ayverson2) sort;1100;2985510
+half sort mass;selection sort;1100;2048210
+half sort mass;insertion sort;1100;1040770
+half sort mass;binary insertion sort;1100;702600
+half sort mass;counting sort;1100;43030
+half sort mass;radix sort;1100;49100
+half sort mass;quick sort;1100;112520
+half sort mass;merge sort;1100;515720
+half sort mass;heap sort;1100;150410
+half sort mass;shell(Ciur) sort;1100;106230
+half sort mass;shell sort;1100;138140
+half sort mass;bubble sort;1200;4008770
+half sort mass;bubble(Ayverson1) sort;1200;6491590
+half sort mass;bubble(Ayverson2) sort;1200;3544820
+half sort mass;selection sort;1200;2371900
+half sort mass;insertion sort;1200;1248150
+half sort mass;binary insertion sort;1200;722120
+half sort mass;counting sort;1200;29270
+half sort mass;radix sort;1200;30440
+half sort mass;quick sort;1200;91650
+half sort mass;merge sort;1200;439890
+half sort mass;heap sort;1200;176950
+half sort mass;shell(Ciur) sort;1200;119090
+half sort mass;shell sort;1200;141900
+half sort mass;bubble sort;1300;4684920
+half sort mass;bubble(Ayverson1) sort;1300;7637050
+half sort mass;bubble(Ayverson2) sort;1300;4272910
+half sort mass;selection sort;1300;2844120
+half sort mass;insertion sort;1300;1487760
+half sort mass;binary insertion sort;1300;868420
+half sort mass;counting sort;1300;29680
+half sort mass;radix sort;1300;30490
+half sort mass;quick sort;1300;97620
+half sort mass;merge sort;1300;479920
+half sort mass;heap sort;1300;194780
+half sort mass;shell(Ciur) sort;1300;147050
+half sort mass;shell sort;1300;164160
+half sort mass;bubble sort;1400;5379300
+half sort mass;bubble(Ayverson1) sort;1400;8912610
+half sort mass;bubble(Ayverson2) sort;1400;5014450
+half sort mass;selection sort;1400;3291740
+half sort mass;insertion sort;1400;1665300
+half sort mass;binary insertion sort;1400;973880
+half sort mass;counting sort;1400;49060
+half sort mass;radix sort;1400;67560
+half sort mass;quick sort;1400;175970
+half sort mass;merge sort;1400;533080
+half sort mass;heap sort;1400;202100
+half sort mass;shell(Ciur) sort;1400;156840
+half sort mass;shell sort;1400;173580
+half sort mass;bubble sort;1500;6411700
+half sort mass;bubble(Ayverson1) sort;1500;11015500
+half sort mass;bubble(Ayverson2) sort;1500;5577870
+half sort mass;selection sort;1500;3993790
+half sort mass;insertion sort;1500;2079510
+half sort mass;binary insertion sort;1500;1207860
+half sort mass;counting sort;1500;35800
+half sort mass;radix sort;1500;38330
+half sort mass;quick sort;1500;130810
+half sort mass;merge sort;1500;553970
+half sort mass;heap sort;1500;228620
+half sort mass;shell(Ciur) sort;1500;159770
+half sort mass;shell sort;1500;194840
+half sort mass;bubble sort;1600;6906570
+half sort mass;bubble(Ayverson1) sort;1600;10918110
+half sort mass;bubble(Ayverson2) sort;1600;6035240
+half sort mass;selection sort;1600;4113630
+half sort mass;insertion sort;1600;2070470
+half sort mass;binary insertion sort;1600;1229960
+half sort mass;counting sort;1600;34530
+half sort mass;radix sort;1600;38410
+half sort mass;quick sort;1600;138550
+half sort mass;merge sort;1600;581790
+half sort mass;heap sort;1600;242520
+half sort mass;shell(Ciur) sort;1600;169290
+half sort mass;shell sort;1600;202960
+half sort mass;bubble sort;1700;8126400
+half sort mass;bubble(Ayverson1) sort;1700;13019330
+half sort mass;bubble(Ayverson2) sort;1700;7147400
+half sort mass;selection sort;1700;4855200
+half sort mass;insertion sort;1700;2500770
+half sort mass;binary insertion sort;1700;1329750
+half sort mass;counting sort;1700;35860
+half sort mass;radix sort;1700;41710
+half sort mass;quick sort;1700;174370
+half sort mass;merge sort;1700;608330
+half sort mass;heap sort;1700;276330
+half sort mass;shell(Ciur) sort;1700;179160
+half sort mass;shell sort;1700;212180
+half sort mass;bubble sort;1800;9097130
+half sort mass;bubble(Ayverson1) sort;1800;14581520
+half sort mass;bubble(Ayverson2) sort;1800;8452710
+half sort mass;selection sort;1800;5502920
+half sort mass;insertion sort;1800;3123010
+half sort mass;binary insertion sort;1800;2333020
+half sort mass;counting sort;1800;36910
+half sort mass;radix sort;1800;41900
+half sort mass;quick sort;1800;156480
+half sort mass;merge sort;1800;676230
+half sort mass;heap sort;1800;272690
+half sort mass;shell(Ciur) sort;1800;190300
+half sort mass;shell sort;1800;231970
+half sort mass;bubble sort;1900;10113380
+half sort mass;bubble(Ayverson1) sort;1900;15966970
+half sort mass;bubble(Ayverson2) sort;1900;8760350
+half sort mass;selection sort;1900;6007100
+half sort mass;insertion sort;1900;3190820
+half sort mass;binary insertion sort;1900;2121100
+half sort mass;counting sort;1900;36970
+half sort mass;radix sort;1900;43790
+half sort mass;quick sort;1900;174780
+half sort mass;merge sort;1900;1386440
+half sort mass;heap sort;1900;426390
+half sort mass;shell(Ciur) sort;1900;218090
+half sort mass;shell sort;1900;243930
+half sort mass;bubble sort;2000;11211180
+half sort mass;bubble(Ayverson1) sort;2000;18045180
+half sort mass;bubble(Ayverson2) sort;2000;9997820
+half sort mass;selection sort;2000;6285420
+half sort mass;insertion sort;2000;3468940
+half sort mass;binary insertion sort;2000;1920150
+half sort mass;counting sort;2000;39790
+half sort mass;radix sort;2000;49770
+half sort mass;quick sort;2000;164570
+half sort mass;merge sort;2000;738360
+half sort mass;heap sort;2000;309990
+half sort mass;shell(Ciur) sort;2000;215870
+half sort mass;shell sort;2000;241230
+half sort mass;bubble sort;2100;11895740
+half sort mass;bubble(Ayverson1) sort;2100;18976670
+half sort mass;bubble(Ayverson2) sort;2100;11392640
+half sort mass;selection sort;2100;8049110
+half sort mass;insertion sort;2100;3781060
+half sort mass;binary insertion sort;2100;2167320
+half sort mass;counting sort;2100;43680
+half sort mass;radix sort;2100;49310
+half sort mass;quick sort;2100;181370
+half sort mass;merge sort;2100;907590
+half sort mass;heap sort;2100;313390
+half sort mass;shell(Ciur) sort;2100;227280
+half sort mass;shell sort;2100;283840
+half sort mass;bubble sort;2200;13608380
+half sort mass;bubble(Ayverson1) sort;2200;23069050
+half sort mass;bubble(Ayverson2) sort;2200;12321120
+half sort mass;selection sort;2200;8027830
+half sort mass;insertion sort;2200;3965050
+half sort mass;binary insertion sort;2200;2294830
+half sort mass;counting sort;2200;46670
+half sort mass;radix sort;2200;55030
+half sort mass;quick sort;2200;186500
+half sort mass;merge sort;2200;782820
+half sort mass;heap sort;2200;348850
+half sort mass;shell(Ciur) sort;2200;251680
+half sort mass;shell sort;2200;298030
+half sort mass;bubble sort;2300;14252850
+half sort mass;bubble(Ayverson1) sort;2300;23652350
+half sort mass;bubble(Ayverson2) sort;2300;13005980
+half sort mass;selection sort;2300;8539170
+half sort mass;insertion sort;2300;4587640
+half sort mass;binary insertion sort;2300;2502260
+half sort mass;counting sort;2300;43900
+half sort mass;radix sort;2300;55130
+half sort mass;quick sort;2300;201080
+half sort mass;merge sort;2300;870370
+half sort mass;heap sort;2300;382370
+half sort mass;shell(Ciur) sort;2300;248240
+half sort mass;shell sort;2300;397370
+half sort mass;bubble sort;2400;16369160
+half sort mass;bubble(Ayverson1) sort;2400;25708050
+half sort mass;bubble(Ayverson2) sort;2400;15345030
+half sort mass;selection sort;2400;9492410
+half sort mass;insertion sort;2400;5150960
+half sort mass;binary insertion sort;2400;2842470
+half sort mass;counting sort;2400;44720
+half sort mass;radix sort;2400;60400
+half sort mass;quick sort;2400;232010
+half sort mass;merge sort;2400;882560
+half sort mass;heap sort;2400;409280
+half sort mass;shell(Ciur) sort;2400;293790
+half sort mass;shell sort;2400;328530
+half sort mass;bubble sort;2500;17390700
+half sort mass;bubble(Ayverson1) sort;2500;29377230
+half sort mass;bubble(Ayverson2) sort;2500;16022910
+half sort mass;selection sort;2500;10173110
+half sort mass;insertion sort;2500;5941070
+half sort mass;binary insertion sort;2500;3075530
+half sort mass;counting sort;2500;49290
+half sort mass;radix sort;2500;59790
+half sort mass;quick sort;2500;224410
+half sort mass;merge sort;2500;945220
+half sort mass;heap sort;2500;405030
+half sort mass;shell(Ciur) sort;2500;282040
+half sort mass;shell sort;2500;354070
+half sort mass;bubble sort;2600;18285350
+half sort mass;bubble(Ayverson1) sort;2600;29864110
+half sort mass;bubble(Ayverson2) sort;2600;17888970
+half sort mass;selection sort;2600;12257170
+half sort mass;insertion sort;2600;6303130
+half sort mass;binary insertion sort;2600;3327880
+half sort mass;counting sort;2600;56120
+half sort mass;radix sort;2600;65610
+half sort mass;quick sort;2600;256480
+half sort mass;merge sort;2600;1004500
+half sort mass;heap sort;2600;455820
+half sort mass;shell(Ciur) sort;2600;304660
+half sort mass;shell sort;2600;375050
+half sort mass;bubble sort;2700;21346250
+half sort mass;bubble(Ayverson1) sort;2700;35206220
+half sort mass;bubble(Ayverson2) sort;2700;23063260
+half sort mass;selection sort;2700;12058610
+half sort mass;insertion sort;2700;7058100
+half sort mass;binary insertion sort;2700;3906470
+half sort mass;counting sort;2700;52730
+half sort mass;radix sort;2700;67310
+half sort mass;quick sort;2700;232700
+half sort mass;merge sort;2700;1418530
+half sort mass;heap sort;2700;680600
+half sort mass;shell(Ciur) sort;2700;318000
+half sort mass;shell sort;2700;391930
+half sort mass;bubble sort;2800;23652150
+half sort mass;bubble(Ayverson1) sort;2800;37281750
+half sort mass;bubble(Ayverson2) sort;2800;21561390
+half sort mass;selection sort;2800;12531810
+half sort mass;insertion sort;2800;6968040
+half sort mass;binary insertion sort;2800;3928270
+half sort mass;counting sort;2800;51050
+half sort mass;radix sort;2800;67100
+half sort mass;quick sort;2800;247130
+half sort mass;merge sort;2800;1028910
+half sort mass;heap sort;2800;456290
+half sort mass;shell(Ciur) sort;2800;324800
+half sort mass;shell sort;2800;400490
+half sort mass;bubble sort;2900;23267210
+half sort mass;bubble(Ayverson1) sort;2900;40511710
+half sort mass;bubble(Ayverson2) sort;2900;22015080
+half sort mass;selection sort;2900;14143760
+half sort mass;insertion sort;2900;7234340
+half sort mass;binary insertion sort;2900;4147420
+half sort mass;counting sort;2900;53930
+half sort mass;radix sort;2900;72000
+half sort mass;quick sort;2900;264310
+half sort mass;merge sort;2900;1230850
+half sort mass;heap sort;2900;487010
+half sort mass;shell(Ciur) sort;2900;374110
+half sort mass;shell sort;2900;433560
+half sort mass;bubble sort;3000;27377560
+half sort mass;bubble(Ayverson1) sort;3000;45489990
+half sort mass;bubble(Ayverson2) sort;3000;23546660
+half sort mass;selection sort;3000;14623150
+half sort mass;insertion sort;3000;7960850
+half sort mass;binary insertion sort;3000;6047720
+half sort mass;counting sort;3000;59310
+half sort mass;radix sort;3000;148890
+half sort mass;quick sort;3000;391140
+half sort mass;merge sort;3000;1399170
+half sort mass;heap sort;3000;511240
+half sort mass;shell(Ciur) sort;3000;367160
+half sort mass;shell sort;3000;438810
+half sort mass;bubble sort;3100;28331220
+half sort mass;bubble(Ayverson1) sort;3100;48564320
+half sort mass;bubble(Ayverson2) sort;3100;25397820
+half sort mass;selection sort;3100;16267470
+half sort mass;insertion sort;3100;8288510
+half sort mass;binary insertion sort;3100;5169710
+half sort mass;counting sort;3100;55710
+half sort mass;radix sort;3100;79090
+half sort mass;quick sort;3100;294960
+half sort mass;merge sort;3100;1203340
+half sort mass;heap sort;3100;518220
+half sort mass;shell(Ciur) sort;3100;390090
+half sort mass;shell sort;3100;492940
+half sort mass;bubble sort;3200;30099530
+half sort mass;bubble(Ayverson1) sort;3200;49181510
+half sort mass;bubble(Ayverson2) sort;3200;25930450
+half sort mass;selection sort;3200;17157590
+half sort mass;insertion sort;3200;9052200
+half sort mass;binary insertion sort;3200;4997270
+half sort mass;counting sort;3200;56750
+half sort mass;radix sort;3200;85960
+half sort mass;quick sort;3200;272780
+half sort mass;merge sort;3200;1268840
+half sort mass;heap sort;3200;537930
+half sort mass;shell(Ciur) sort;3200;397170
+half sort mass;shell sort;3200;476050
+half sort mass;bubble sort;3300;32165700
+half sort mass;bubble(Ayverson1) sort;3300;52581970
+half sort mass;bubble(Ayverson2) sort;3300;30193680
+half sort mass;selection sort;3300;18857240
+half sort mass;insertion sort;3300;9587250
+half sort mass;binary insertion sort;3300;5181050
+half sort mass;counting sort;3300;94230
+half sort mass;radix sort;3300;149200
+half sort mass;quick sort;3300;444930
+half sort mass;merge sort;3300;1442160
+half sort mass;heap sort;3300;533270
+half sort mass;shell(Ciur) sort;3300;376580
+half sort mass;shell sort;3300;719730
+half sort mass;bubble sort;3400;40818100
+half sort mass;bubble(Ayverson1) sort;3400;60042170
+half sort mass;bubble(Ayverson2) sort;3400;31744850
+half sort mass;selection sort;3400;17894020
+half sort mass;insertion sort;3400;12204220
+half sort mass;binary insertion sort;3400;6134440
+half sort mass;counting sort;3400;99280
+half sort mass;radix sort;3400;159080
+half sort mass;quick sort;3400;422990
+half sort mass;merge sort;3400;1327820
+half sort mass;heap sort;3400;570840
+half sort mass;shell(Ciur) sort;3400;500290
+half sort mass;shell sort;3400;490630
+half sort mass;bubble sort;3500;38863820
+half sort mass;bubble(Ayverson1) sort;3500;59467040
+half sort mass;bubble(Ayverson2) sort;3500;34930010
+half sort mass;selection sort;3500;20093990
+half sort mass;insertion sort;3500;12718050
+half sort mass;binary insertion sort;3500;6698220
+half sort mass;counting sort;3500;89270
+half sort mass;radix sort;3500;155420
+half sort mass;quick sort;3500;404040
+half sort mass;merge sort;3500;1395590
+half sort mass;heap sort;3500;598000
+half sort mass;shell(Ciur) sort;3500;472340
+half sort mass;shell sort;3500;524170
+half sort mass;bubble sort;3600;40417300
+half sort mass;bubble(Ayverson1) sort;3600;62656560
+half sort mass;bubble(Ayverson2) sort;3600;33662740
+half sort mass;selection sort;3600;22072080
+half sort mass;insertion sort;3600;11642570
+half sort mass;binary insertion sort;3600;6345150
+half sort mass;counting sort;3600;69740
+half sort mass;radix sort;3600;86480
+half sort mass;quick sort;3600;355100
+half sort mass;merge sort;3600;1376870
+half sort mass;heap sort;3600;611400
+half sort mass;shell(Ciur) sort;3600;532260
+half sort mass;shell sort;3600;585790
+half sort mass;bubble sort;3700;41830040
+half sort mass;bubble(Ayverson1) sort;3700;67400730
+half sort mass;bubble(Ayverson2) sort;3700;34899260
+half sort mass;selection sort;3700;23742730
+half sort mass;insertion sort;3700;13452090
+half sort mass;binary insertion sort;3700;6776550
+half sort mass;counting sort;3700;65130
+half sort mass;radix sort;3700;93120
+half sort mass;quick sort;3700;350140
+half sort mass;merge sort;3700;1418470
+half sort mass;heap sort;3700;629570
+half sort mass;shell(Ciur) sort;3700;435430
+half sort mass;shell sort;3700;537000
+half sort mass;bubble sort;3800;40373890
+half sort mass;bubble(Ayverson1) sort;3800;70518900
+half sort mass;bubble(Ayverson2) sort;3800;39958940
+half sort mass;selection sort;3800;23621690
+half sort mass;insertion sort;3800;11803290
+half sort mass;binary insertion sort;3800;7017210
+half sort mass;counting sort;3800;66480
+half sort mass;radix sort;3800;117370
+half sort mass;quick sort;3800;342140
+half sort mass;merge sort;3800;1448580
+half sort mass;heap sort;3800;655770
+half sort mass;shell(Ciur) sort;3800;466770
+half sort mass;shell sort;3800;559370
+half sort mass;bubble sort;3900;45087820
+half sort mass;bubble(Ayverson1) sort;3900;73593330
+half sort mass;bubble(Ayverson2) sort;3900;41406710
+half sort mass;selection sort;3900;24559260
+half sort mass;insertion sort;3900;12916060
+half sort mass;binary insertion sort;3900;7912650
+half sort mass;counting sort;3900;66440
+half sort mass;radix sort;3900;103380
+half sort mass;quick sort;3900;374570
+half sort mass;merge sort;3900;1613210
+half sort mass;heap sort;3900;779850
+half sort mass;shell(Ciur) sort;3900;606690
+half sort mass;shell sort;3900;608190
+half sort mass;bubble sort;4000;48440310
+half sort mass;bubble(Ayverson1) sort;4000;75992510
+half sort mass;bubble(Ayverson2) sort;4000;45271510
+half sort mass;selection sort;4000;25736340
+half sort mass;insertion sort;4000;13825290
+half sort mass;binary insertion sort;4000;8992180
+half sort mass;counting sort;4000;67730
+half sort mass;radix sort;4000;98640
+half sort mass;quick sort;4000;368510
+half sort mass;merge sort;4000;1539800
+half sort mass;heap sort;4000;697880
+half sort mass;shell(Ciur) sort;4000;500870
+half sort mass;shell sort;4000;590170
+half sort mass;bubble sort;4100;47649430
+half sort mass;bubble(Ayverson1) sort;4100;79350640
+half sort mass;bubble(Ayverson2) sort;4100;45137450
+half sort mass;selection sort;4100;26641830
+half sort mass;insertion sort;4100;14395210
+half sort mass;binary insertion sort;4100;10194280
+half sort mass;counting sort;4100;71050
+half sort mass;radix sort;4100;196040
+half sort mass;quick sort;4100;370190
+half sort mass;merge sort;4100;1552890
+half sort mass;heap sort;4100;682780
+half sort mass;shell(Ciur) sort;4100;567510
+half sort mass;shell sort;4100;821410
+reverse mass;bubble sort;400;650090
+reverse mass;bubble(Ayverson1) sort;400;1422580
+reverse mass;bubble(Ayverson2) sort;400;671420
+reverse mass;selection sort;400;403250
+reverse mass;insertion sort;400;398420
+reverse mass;binary insertion sort;400;199970
+reverse mass;counting sort;400;18040
+reverse mass;radix sort;400;10520
+reverse mass;quick sort;400;136300
+reverse mass;merge sort;400;136750
+reverse mass;heap sort;400;39770
+reverse mass;shell(Ciur) sort;400;14460
+reverse mass;shell sort;400;24620
+reverse mass;bubble sort;500;997710
+reverse mass;bubble(Ayverson1) sort;500;1499060
+reverse mass;bubble(Ayverson2) sort;500;1014970
+reverse mass;selection sort;500;441230
+reverse mass;insertion sort;500;707160
+reverse mass;binary insertion sort;500;342450
+reverse mass;counting sort;500;19850
+reverse mass;radix sort;500;13340
+reverse mass;quick sort;500;205870
+reverse mass;merge sort;500;174510
+reverse mass;heap sort;500;49770
+reverse mass;shell(Ciur) sort;500;18450
+reverse mass;shell sort;500;29940
+reverse mass;bubble sort;600;1494460
+reverse mass;bubble(Ayverson1) sort;600;2157430
+reverse mass;bubble(Ayverson2) sort;600;1501070
+reverse mass;selection sort;600;653010
+reverse mass;insertion sort;600;857750
+reverse mass;binary insertion sort;600;541160
+reverse mass;counting sort;600;19850
+reverse mass;radix sort;600;15040
+reverse mass;quick sort;600;294000
+reverse mass;merge sort;600;210320
+reverse mass;heap sort;600;64950
+reverse mass;shell(Ciur) sort;600;23670
+reverse mass;shell sort;600;31250
+reverse mass;bubble sort;700;1900880
+reverse mass;bubble(Ayverson1) sort;700;2936540
+reverse mass;bubble(Ayverson2) sort;700;2014220
+reverse mass;selection sort;700;857280
+reverse mass;insertion sort;700;1123130
+reverse mass;binary insertion sort;700;612950
+reverse mass;counting sort;700;20630
+reverse mass;radix sort;700;29890
+reverse mass;quick sort;700;572920
+reverse mass;merge sort;700;240220
+reverse mass;heap sort;700;80230
+reverse mass;shell(Ciur) sort;700;32460
+reverse mass;shell sort;700;40820
+reverse mass;bubble sort;800;2689700
+reverse mass;bubble(Ayverson1) sort;800;3738160
+reverse mass;bubble(Ayverson2) sort;800;2480510
+reverse mass;selection sort;800;1150270
+reverse mass;insertion sort;800;1356330
+reverse mass;binary insertion sort;800;954570
+reverse mass;counting sort;800;37200
+reverse mass;radix sort;800;21610
+reverse mass;quick sort;800;486920
+reverse mass;merge sort;800;277960
+reverse mass;heap sort;800;92500
+reverse mass;shell(Ciur) sort;800;30140
+reverse mass;shell sort;800;42460
+reverse mass;bubble sort;900;3372110
+reverse mass;bubble(Ayverson1) sort;900;4644400
+reverse mass;bubble(Ayverson2) sort;900;3074400
+reverse mass;selection sort;900;1418820
+reverse mass;insertion sort;900;1909090
+reverse mass;binary insertion sort;900;1040210
+reverse mass;counting sort;900;23610
+reverse mass;radix sort;900;21630
+reverse mass;quick sort;900;763790
+reverse mass;merge sort;900;314100
+reverse mass;heap sort;900;169850
+reverse mass;shell(Ciur) sort;900;50260
+reverse mass;shell sort;900;48210
+reverse mass;bubble sort;1000;3999420
+reverse mass;bubble(Ayverson1) sort;1000;5854530
+reverse mass;bubble(Ayverson2) sort;1000;3757830
+reverse mass;selection sort;1000;2068310
+reverse mass;insertion sort;1000;2374900
+reverse mass;binary insertion sort;1000;1296120
+reverse mass;counting sort;1000;34990
+reverse mass;radix sort;1000;24560
+reverse mass;quick sort;1000;769230
+reverse mass;merge sort;1000;352870
+reverse mass;heap sort;1000;117220
+reverse mass;shell(Ciur) sort;1000;44740
+reverse mass;shell sort;1000;57020
+reverse mass;bubble sort;1100;4979570
+reverse mass;bubble(Ayverson1) sort;1100;7794370
+reverse mass;bubble(Ayverson2) sort;1100;6008210
+reverse mass;selection sort;1100;2246800
+reverse mass;insertion sort;1100;3441070
+reverse mass;binary insertion sort;1100;1589280
+reverse mass;counting sort;1100;27410
+reverse mass;radix sort;1100;27160
+reverse mass;quick sort;1100;899560
+reverse mass;merge sort;1100;369760
+reverse mass;heap sort;1100;134500
+reverse mass;shell(Ciur) sort;1100;49850
+reverse mass;shell sort;1100;61030
+reverse mass;bubble sort;1200;6118890
+reverse mass;bubble(Ayverson1) sort;1200;8361090
+reverse mass;bubble(Ayverson2) sort;1200;5391740
+reverse mass;selection sort;1200;2586670
+reverse mass;insertion sort;1200;3416150
+reverse mass;binary insertion sort;1200;1918610
+reverse mass;counting sort;1200;34590
+reverse mass;radix sort;1200;29600
+reverse mass;quick sort;1200;1075260
+reverse mass;merge sort;1200;415500
+reverse mass;heap sort;1200;146220
+reverse mass;shell(Ciur) sort;1200;60150
+reverse mass;shell sort;1200;73180
+reverse mass;bubble sort;1300;6899410
+reverse mass;bubble(Ayverson1) sort;1300;9976430
+reverse mass;bubble(Ayverson2) sort;1300;7527230
+reverse mass;selection sort;1300;3008740
+reverse mass;insertion sort;1300;3940290
+reverse mass;binary insertion sort;1300;2128620
+reverse mass;counting sort;1300;28760
+reverse mass;radix sort;1300;45230
+reverse mass;quick sort;1300;1374870
+reverse mass;merge sort;1300;627240
+reverse mass;heap sort;1300;186400
+reverse mass;shell(Ciur) sort;1300;52470
+reverse mass;shell sort;1300;84400
+reverse mass;bubble sort;1400;8155620
+reverse mass;bubble(Ayverson1) sort;1400;11520650
+reverse mass;bubble(Ayverson2) sort;1400;8325210
+reverse mass;selection sort;1400;3500740
+reverse mass;insertion sort;1400;4526340
+reverse mass;binary insertion sort;1400;2445490
+reverse mass;counting sort;1400;31580
+reverse mass;radix sort;1400;34920
+reverse mass;quick sort;1400;1431520
+reverse mass;merge sort;1400;491740
+reverse mass;heap sort;1400;179350
+reverse mass;shell(Ciur) sort;1400;58760
+reverse mass;shell sort;1400;103890
+reverse mass;bubble sort;1500;9138270
+reverse mass;bubble(Ayverson1) sort;1500;12503630
+reverse mass;bubble(Ayverson2) sort;1500;8661850
+reverse mass;selection sort;1500;3899430
+reverse mass;insertion sort;1500;5332070
+reverse mass;binary insertion sort;1500;2948820
+reverse mass;counting sort;1500;32300
+reverse mass;radix sort;1500;37520
+reverse mass;quick sort;1500;1679960
+reverse mass;merge sort;1500;519340
+reverse mass;heap sort;1500;206670
+reverse mass;shell(Ciur) sort;1500;69590
+reverse mass;shell sort;1500;102780
+reverse mass;bubble sort;1600;11716920
+reverse mass;bubble(Ayverson1) sort;1600;15097010
+reverse mass;bubble(Ayverson2) sort;1600;10463360
+reverse mass;selection sort;1600;4399330
+reverse mass;insertion sort;1600;6795100
+reverse mass;binary insertion sort;1600;3142740
+reverse mass;counting sort;1600;52680
+reverse mass;radix sort;1600;78390
+reverse mass;quick sort;1600;2183610
+reverse mass;merge sort;1600;564900
+reverse mass;heap sort;1600;210540
+reverse mass;shell(Ciur) sort;1600;72080
+reverse mass;shell sort;1600;110470
+reverse mass;bubble sort;1700;11790850
+reverse mass;bubble(Ayverson1) sort;1700;16389040
+reverse mass;bubble(Ayverson2) sort;1700;11372640
+reverse mass;selection sort;1700;5214080
+reverse mass;insertion sort;1700;6752520
+reverse mass;binary insertion sort;1700;3706710
+reverse mass;counting sort;1700;34990
+reverse mass;radix sort;1700;38660
+reverse mass;quick sort;1700;3300890
+reverse mass;merge sort;1700;600720
+reverse mass;heap sort;1700;223050
+reverse mass;shell(Ciur) sort;1700;96480
+reverse mass;shell sort;1700;124340
+reverse mass;bubble sort;1800;13822250
+reverse mass;bubble(Ayverson1) sort;1800;19335510
+reverse mass;bubble(Ayverson2) sort;1800;12514760
+reverse mass;selection sort;1800;5777580
+reverse mass;insertion sort;1800;7482100
+reverse mass;binary insertion sort;1800;4181530
+reverse mass;counting sort;1800;40760
+reverse mass;radix sort;1800;39970
+reverse mass;quick sort;1800;2999480
+reverse mass;merge sort;1800;648640
+reverse mass;heap sort;1800;244870
+reverse mass;shell(Ciur) sort;1800;93360
+reverse mass;shell sort;1800;123810
+reverse mass;bubble sort;1900;14743460
+reverse mass;bubble(Ayverson1) sort;1900;20497700
+reverse mass;bubble(Ayverson2) sort;1900;14245490
+reverse mass;selection sort;1900;7272060
+reverse mass;insertion sort;1900;8444540
+reverse mass;binary insertion sort;1900;4955390
+reverse mass;counting sort;1900;39410
+reverse mass;radix sort;1900;43960
+reverse mass;quick sort;1900;3100960
+reverse mass;merge sort;1900;772030
+reverse mass;heap sort;1900;268070
+reverse mass;shell(Ciur) sort;1900;99950
+reverse mass;shell sort;1900;126710
+reverse mass;bubble sort;2000;16554650
+reverse mass;bubble(Ayverson1) sort;2000;22696440
+reverse mass;bubble(Ayverson2) sort;2000;15993110
+reverse mass;selection sort;2000;7511080
+reverse mass;insertion sort;2000;9497510
+reverse mass;binary insertion sort;2000;5113460
+reverse mass;counting sort;2000;40290
+reverse mass;radix sort;2000;44250
+reverse mass;quick sort;2000;3106620
+reverse mass;merge sort;2000;688940
+reverse mass;heap sort;2000;268090
+reverse mass;shell(Ciur) sort;2000;85630
+reverse mass;shell sort;2000;157800
+reverse mass;bubble sort;2100;17547590
+reverse mass;bubble(Ayverson1) sort;2100;25318570
+reverse mass;bubble(Ayverson2) sort;2100;17354640
+reverse mass;selection sort;2100;7493820
+reverse mass;insertion sort;2100;10815860
+reverse mass;binary insertion sort;2100;6021050
+reverse mass;counting sort;2100;39950
+reverse mass;radix sort;2100;47510
+reverse mass;quick sort;2100;3257190
+reverse mass;merge sort;2100;706030
+reverse mass;heap sort;2100;283740
+reverse mass;shell(Ciur) sort;2100;97300
+reverse mass;shell sort;2100;154330
+reverse mass;bubble sort;2200;19845430
+reverse mass;bubble(Ayverson1) sort;2200;27919310
+reverse mass;bubble(Ayverson2) sort;2200;19041760
+reverse mass;selection sort;2200;8457650
+reverse mass;insertion sort;2200;11829410
+reverse mass;binary insertion sort;2200;6310300
+reverse mass;counting sort;2200;43570
+reverse mass;radix sort;2200;53450
+reverse mass;quick sort;2200;4314450
+reverse mass;merge sort;2200;769800
+reverse mass;heap sort;2200;335640
+reverse mass;shell(Ciur) sort;2200;129790
+reverse mass;shell sort;2200;176290
+reverse mass;bubble sort;2300;21950430
+reverse mass;bubble(Ayverson1) sort;2300;31296260
+reverse mass;bubble(Ayverson2) sort;2300;20653690
+reverse mass;selection sort;2300;11415890
+reverse mass;insertion sort;2300;12039280
+reverse mass;binary insertion sort;2300;6947680
+reverse mass;counting sort;2300;44170
+reverse mass;radix sort;2300;53620
+reverse mass;quick sort;2300;3886870
+reverse mass;merge sort;2300;805500
+reverse mass;heap sort;2300;314120
+reverse mass;shell(Ciur) sort;2300;122260
+reverse mass;shell sort;2300;168410
+reverse mass;bubble sort;2400;23160310
+reverse mass;bubble(Ayverson1) sort;2400;33673590
+reverse mass;bubble(Ayverson2) sort;2400;22778510
+reverse mass;selection sort;2400;10250370
+reverse mass;insertion sort;2400;13689960
+reverse mass;binary insertion sort;2400;7480560
+reverse mass;counting sort;2400;44480
+reverse mass;radix sort;2400;105950
+reverse mass;quick sort;2400;4259650
+reverse mass;merge sort;2400;860330
+reverse mass;heap sort;2400;326820
+reverse mass;shell(Ciur) sort;2400;112800
+reverse mass;shell sort;2400;182270
+reverse mass;bubble sort;2500;25039170
+reverse mass;bubble(Ayverson1) sort;2500;37094050
+reverse mass;bubble(Ayverson2) sort;2500;25054440
+reverse mass;selection sort;2500;11573740
+reverse mass;insertion sort;2500;15708060
+reverse mass;binary insertion sort;2500;9503070
+reverse mass;counting sort;2500;46440
+reverse mass;radix sort;2500;57660
+reverse mass;quick sort;2500;4412960
+reverse mass;merge sort;2500;880150
+reverse mass;heap sort;2500;480760
+reverse mass;shell(Ciur) sort;2500;119200
+reverse mass;shell sort;2500;192400
+reverse mass;bubble sort;2600;26497850
+reverse mass;bubble(Ayverson1) sort;2600;39498970
+reverse mass;bubble(Ayverson2) sort;2600;27775070
+reverse mass;selection sort;2600;11847290
+reverse mass;insertion sort;2600;15756320
+reverse mass;binary insertion sort;2600;8441630
+reverse mass;counting sort;2600;44990
+reverse mass;radix sort;2600;60500
+reverse mass;quick sort;2600;4941270
+reverse mass;merge sort;2600;926840
+reverse mass;heap sort;2600;372360
+reverse mass;shell(Ciur) sort;2600;137910
+reverse mass;shell sort;2600;178340
+reverse mass;bubble sort;2700;30389880
+reverse mass;bubble(Ayverson1) sort;2700;42423760
+reverse mass;bubble(Ayverson2) sort;2700;29761720
+reverse mass;selection sort;2700;12688130
+reverse mass;insertion sort;2700;16657520
+reverse mass;binary insertion sort;2700;9375940
+reverse mass;counting sort;2700;49210
+reverse mass;radix sort;2700;62530
+reverse mass;quick sort;2700;5735910
+reverse mass;merge sort;2700;937610
+reverse mass;heap sort;2700;476920
+reverse mass;shell(Ciur) sort;2700;144930
+reverse mass;shell sort;2700;221610
+reverse mass;bubble sort;2800;31201010
+reverse mass;bubble(Ayverson1) sort;2800;48373280
+reverse mass;bubble(Ayverson2) sort;2800;30626640
+reverse mass;selection sort;2800;13876820
+reverse mass;insertion sort;2800;17716970
+reverse mass;binary insertion sort;2800;9889270
+reverse mass;counting sort;2800;46890
+reverse mass;radix sort;2800;61610
+reverse mass;quick sort;2800;5440720
+reverse mass;merge sort;2800;1015930
+reverse mass;heap sort;2800;402270
+reverse mass;shell(Ciur) sort;2800;146180
+reverse mass;shell sort;2800;214110
+reverse mass;bubble sort;2900;35346620
+reverse mass;bubble(Ayverson1) sort;2900;49591990
+reverse mass;bubble(Ayverson2) sort;2900;33807070
+reverse mass;selection sort;2900;16423540
+reverse mass;insertion sort;2900;20317180
+reverse mass;binary insertion sort;2900;11987620
+reverse mass;counting sort;2900;49270
+reverse mass;radix sort;2900;67600
+reverse mass;quick sort;2900;6634920
+reverse mass;merge sort;2900;1558190
+reverse mass;heap sort;2900;428940
+reverse mass;shell(Ciur) sort;2900;172430
+reverse mass;shell sort;2900;219410
+reverse mass;bubble sort;3000;36102190
+reverse mass;bubble(Ayverson1) sort;3000;55324170
+reverse mass;bubble(Ayverson2) sort;3000;36332690
+reverse mass;selection sort;3000;15963100
+reverse mass;insertion sort;3000;21775350
+reverse mass;binary insertion sort;3000;12376980
+reverse mass;counting sort;3000;57350
+reverse mass;radix sort;3000;67070
+reverse mass;quick sort;3000;6853870
+reverse mass;merge sort;3000;1063030
+reverse mass;heap sort;3000;446630
+reverse mass;shell(Ciur) sort;3000;153260
+reverse mass;shell sort;3000;240920
+reverse mass;bubble sort;3100;39748140
+reverse mass;bubble(Ayverson1) sort;3100;63622770
+reverse mass;bubble(Ayverson2) sort;3100;38553240
+reverse mass;selection sort;3100;18618330
+reverse mass;insertion sort;3100;24000200
+reverse mass;binary insertion sort;3100;12584560
+reverse mass;counting sort;3100;54590
+reverse mass;radix sort;3100;133910
+reverse mass;quick sort;3100;7975030
+reverse mass;merge sort;3100;1114010
+reverse mass;heap sort;3100;605180
+reverse mass;shell(Ciur) sort;3100;174440
+reverse mass;shell sort;3100;356620
+reverse mass;bubble sort;3200;43667770
+reverse mass;bubble(Ayverson1) sort;3200;62444270
+reverse mass;bubble(Ayverson2) sort;3200;42021320
+reverse mass;selection sort;3200;18919790
+reverse mass;insertion sort;3200;26547350
+reverse mass;binary insertion sort;3200;13297600
+reverse mass;counting sort;3200;52180
+reverse mass;radix sort;3200;72280
+reverse mass;quick sort;3200;7404370
+reverse mass;merge sort;3200;1146460
+reverse mass;heap sort;3200;493790
+reverse mass;shell(Ciur) sort;3200;196770
+reverse mass;shell sort;3200;234400
+reverse mass;bubble sort;3300;44776930
+reverse mass;bubble(Ayverson1) sort;3300;65194490
+reverse mass;bubble(Ayverson2) sort;3300;44450320
+reverse mass;selection sort;3300;19770540
+reverse mass;insertion sort;3300;25544090
+reverse mass;binary insertion sort;3300;14712660
+reverse mass;counting sort;3300;52680
+reverse mass;radix sort;3300;74560
+reverse mass;quick sort;3300;7982230
+reverse mass;merge sort;3300;1145730
+reverse mass;heap sort;3300;469000
+reverse mass;shell(Ciur) sort;3300;199110
+reverse mass;shell sort;3300;270470
+reverse mass;bubble sort;3400;49971010
+reverse mass;bubble(Ayverson1) sort;3400;68199460
+reverse mass;bubble(Ayverson2) sort;3400;48295610
+reverse mass;selection sort;3400;21810390
+reverse mass;insertion sort;3400;26551810
+reverse mass;binary insertion sort;3400;15158990
+reverse mass;counting sort;3400;56530
+reverse mass;radix sort;3400;79200
+reverse mass;quick sort;3400;8204450
+reverse mass;merge sort;3400;1206460
+reverse mass;heap sort;3400;498910
+reverse mass;shell(Ciur) sort;3400;199910
+reverse mass;shell sort;3400;249130
+reverse mass;bubble sort;3500;52026810
+reverse mass;bubble(Ayverson1) sort;3500;73199550
+reverse mass;bubble(Ayverson2) sort;3500;46725460
+reverse mass;selection sort;3500;23909080
+reverse mass;insertion sort;3500;27676920
+reverse mass;binary insertion sort;3500;15689490
+reverse mass;counting sort;3500;60380
+reverse mass;radix sort;3500;77970
+reverse mass;quick sort;3500;10548110
+reverse mass;merge sort;3500;1265380
+reverse mass;heap sort;3500;620240
+reverse mass;shell(Ciur) sort;3500;278630
+reverse mass;shell sort;3500;286480
+reverse mass;bubble sort;3600;51833990
+reverse mass;bubble(Ayverson1) sort;3600;77765140
+reverse mass;bubble(Ayverson2) sort;3600;50102180
+reverse mass;selection sort;3600;25327720
+reverse mass;insertion sort;3600;29829310
+reverse mass;binary insertion sort;3600;16261570
+reverse mass;counting sort;3600;63280
+reverse mass;radix sort;3600;91650
+reverse mass;quick sort;3600;9191710
+reverse mass;merge sort;3600;1204250
+reverse mass;heap sort;3600;584560
+reverse mass;shell(Ciur) sort;3600;204630
+reverse mass;shell sort;3600;287830
+reverse mass;bubble sort;3700;57556140
+reverse mass;bubble(Ayverson1) sort;3700;83166540
+reverse mass;bubble(Ayverson2) sort;3700;54202730
+reverse mass;selection sort;3700;26954600
+reverse mass;insertion sort;3700;32535610
+reverse mass;binary insertion sort;3700;17441960
+reverse mass;counting sort;3700;56230
+reverse mass;radix sort;3700;84400
+reverse mass;quick sort;3700;9591220
+reverse mass;merge sort;3700;1277630
+reverse mass;heap sort;3700;546760
+reverse mass;shell(Ciur) sort;3700;188710
+reverse mass;shell sort;3700;277100
+reverse mass;bubble sort;3800;60961380
+reverse mass;bubble(Ayverson1) sort;3800;85833820
+reverse mass;bubble(Ayverson2) sort;3800;58258540
+reverse mass;selection sort;3800;30125770
+reverse mass;insertion sort;3800;41544130
+reverse mass;binary insertion sort;3800;18925370
+reverse mass;counting sort;3800;60130
+reverse mass;radix sort;3800;88440
+reverse mass;quick sort;3800;11007300
+reverse mass;merge sort;3800;1392880
+reverse mass;heap sort;3800;624400
+reverse mass;shell(Ciur) sort;3800;223550
+reverse mass;shell sort;3800;341780
+reverse mass;bubble sort;3900;64321690
+reverse mass;bubble(Ayverson1) sort;3900;90381540
+reverse mass;bubble(Ayverson2) sort;3900;62527790
+reverse mass;selection sort;3900;31058960
+reverse mass;insertion sort;3900;36321840
+reverse mass;binary insertion sort;3900;20339190
+reverse mass;counting sort;3900;61640
+reverse mass;radix sort;3900;144080
+reverse mass;quick sort;3900;11782630
+reverse mass;merge sort;3900;1372600
+reverse mass;heap sort;3900;585480
+reverse mass;shell(Ciur) sort;3900;204890
+reverse mass;shell sort;3900;361690
+reverse mass;bubble sort;4000;64385790
+reverse mass;bubble(Ayverson1) sort;4000;93984700
+reverse mass;bubble(Ayverson2) sort;4000;67580170
+reverse mass;selection sort;4000;36276110
+reverse mass;insertion sort;4000;38033060
+reverse mass;binary insertion sort;4000;21113620
+reverse mass;counting sort;4000;61970
+reverse mass;radix sort;4000;157130
+reverse mass;quick sort;4000;13572720
+reverse mass;merge sort;4000;2245060
+reverse mass;heap sort;4000;650560
+reverse mass;shell(Ciur) sort;4000;232560
+reverse mass;shell sort;4000;316500
+reverse mass;bubble sort;4100;70848470
+reverse mass;bubble(Ayverson1) sort;4100;100813080
+reverse mass;bubble(Ayverson2) sort;4100;71578360
+reverse mass;selection sort;4100;35544150
+reverse mass;insertion sort;4100;44840870
+reverse mass;binary insertion sort;4100;22415040
+reverse mass;counting sort;4100;70700
+reverse mass;radix sort;4100;96390
+reverse mass;quick sort;4100;13040140
+reverse mass;merge sort;4100;1467290
+reverse mass;heap sort;4100;620560
+reverse mass;shell(Ciur) sort;4100;205430
+reverse mass;shell sort;4100;316900
