@@ -3,7 +3,7 @@
 #include <functional>
 #include <fstream>
 #include "writeToFile.h"
-
+    void help() {
     WriteToFile::clear();
     std::ofstream table("../csvTables/table.csv");
     table << "Type;Sort;Size;Time(ns)" << "\n";
